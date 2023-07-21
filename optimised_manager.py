@@ -11,7 +11,7 @@ import gzip
 
 
 class GraphManager:
-    @profile
+    #@profile
     def __init__(self, data_path):
 
         self.load_dicts(data_path)
@@ -61,7 +61,7 @@ class GraphManager:
     def load_drug_candidates(self, data_path):
         self.all_drug_candidates = pd.read_csv(f'{data_path}drug_candidates.csv')
 
-    @profile
+    #@profile
     def get_drugs_for_disease_precomputed(self, chosen_indication_label):
         # Filter the DataFrame for the rows where the first column (indication label) matches the chosen indication label
         matching_rows = self.all_drug_candidates[self.all_drug_candidates.iloc[:, 0] == chosen_indication_label]
@@ -136,7 +136,7 @@ class GraphManager:
 
         return node_colors, node_shapes
     
-    @profile
+    #@profile
     def generate_subgraph_with_database(self, chosen_indication_label, chosen_drug_label, num_drug_nodes, num_indication_nodes, map_drug_diffusion_labels_to_indices, map_indication_diffusion_labels_to_indices, session):
 
         drug_index = map_drug_diffusion_labels_to_indices[chosen_drug_label]
@@ -215,7 +215,7 @@ class GraphManager:
 
         return graph
 
-    @profile
+    #@profile
     def convert_networkx_to_vis_graph_data(self, graph, node_colors, node_shapes):
         # Create a list of nodes and edges
         nodes = [{"id": self.mapping_label_to_index[node_label], 
