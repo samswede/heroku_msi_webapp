@@ -55,7 +55,7 @@ origins = [
     'https://primal-hybrid-391911.ew.r.appspot.com', #New for google cloud
     'http://localhost:8080',
     'https://msi-app-b9364c344d37.herokuapp.com',  # Allow your local frontend to access the server
-
+    'https://msi-webapp-7ba91279a938.herokuapp.com',
     uri, # add neo4j sandbox graph database uri
 ]
 

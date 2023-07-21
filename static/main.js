@@ -29,8 +29,9 @@ $(document).ready(function() {
     });
 
 
-// var baseUrl =  "https://msi-app-b9364c344d37.herokuapp.com"
-var baseUrl =  "http://127.0.0.1:8000"
+//var baseUrl =  "https://msi-app-b9364c344d37.herokuapp.com" // Jacob's Heroku
+var baseUrl = "https://msi-webapp-7ba91279a938.herokuapp.com" //Sam's Heroku
+//var baseUrl =  "http://127.0.0.1:8000"
 // var baseUrl =  "http://localhost:8080"
 
     // Dropdown 1
