@@ -1,0 +1,841 @@
+0,1,2,3,4,5,6,7,8,9,10
+C0003811,Ergoloid mesylate,,Cisapride,DIHYDROERGOCRISTINE,DIHYDROERGOCORNINE,,serotonin,ondansetron,setiptiline,metoclopramide
+C0034065,Heparin,Bemiparin,Fondaparinux,Enoxaparin,Sulodexide,Danaparoid,Antithrombin III,Kappadione,,menadione
+C0917798,cholic-acid,Oxygen,,Acetohydroxamic Acid,NADH,dimercaprol,coenzyme Q10,deferoxamine-mesylate,Filgrastim,amiloride
+C0476089,Succinic acid,ospemifene,fulvestrant,fostamatinib,Arsenic trioxide,,bazedoxifene,dimethyl-fumarate,podophyllotoxin,cytarabine
+C0015530,propylene glycol,CATRIDECACOG,,THROMBIN ALFA,sucralfate,Ancrod,Alteplase,Reteplase,Anistreplase,Tenecteplase
+C0007134,fostamatinib,zaleplon,aspirin,zinc,Tenecteplase,podophyllotoxin,fulvestrant,Arsenic trioxide,NADH,dasatinib
+C0678222,Arsenic trioxide,ponatinib,nintedanib,regorafenib,palifermin,Succinic acid,lenvatinib,,podophyllotoxin,Thalidomide
+C0206245,zinc,cisplatin,Iron,Tenecteplase,amsacrine,Ancrod,,MOROCTOCOG ALFA,fostamatinib,mifepristone
+C0013182,pranlukast,omalizumab,nedocromil,montelukast,,zafirlukast,erythromycin,azithromycin,sulfasalazine,paracetamol
+C0221765,tramadol,diacerein,minaprine,cevimeline,aldesleukin,mepenzolate,flupentixol,Denileukin diftitox,ifosfamide,Nafcillin
+C0040479,vernakalant,procainamide,propafenone,flecainide,disopyramide,quinidine,indapamide,,Encainide,ciprofloxacin
+C0162627,copanlisib,idelalisib,ibrutinib,Collagenase clostridium histolyticum,halofuginone,dasatinib,fostamatinib,ponatinib,sorafenib,Lithium
+C0878773,bosentan,,ambrisentan,Sitaxentan,macitentan,Canakinumab,lorcaserin,sarpogrelate,Fenfluramine,Siltuximab
+C0005694,etoricoxib,,firocoxib,iguratimod,aceclofenac,carprofen,Lumiracoxib,diflunisal,Bromfenac,loxoprofen
+C0020428,spironolactone,progesterone,niflumic-acid,hydroflumethiazide,etacrynic-acid,felodipine,nimodipine,trichlormethiazide,bumetanide,dexamethasone
+C0019054,glycolic acid,isoprenaline,epinephrine,zinc,NADH,Iron,Thalidomide,dopamine,Glutathione,IRON DEXTRAN
+C0206682,liothyronine,levothyroxine,Dextrothyroxine,amiodarone,fingolimod,ouabain,,Omega-3-carboxylic acids,,Atezolizumab
+C0001627,,ondansetron,vilazodone,metoclopramide,Cisapride,tropisetron,,Cinitapride,prucalopride,mosapride
+C0031069,fostamatinib,minocycline,Lactose,aspirin,,fulvestrant,dasatinib,dimethyl-fumarate,bosutinib,ospemifene
+C0023479,nilotinib,sunitinib,sorafenib,ponatinib,imatinib,lenvatinib,pazopanib,nintedanib,regorafenib,dasatinib
+C0017086,Ustekinumab,L-Serine,Oxycodone,amsacrine,Thalidomide,guselkumab,fostamatinib,aspirin,Glycine,NADH
+C0010930,palifermin,lenvatinib,nintedanib,ponatinib,Thalidomide,pazopanib,Heparin,regorafenib,fostamatinib,hyaluronidase (ovine)
+C0023487,dasatinib,Arsenic trioxide,ponatinib,sorafenib,sunitinib,nintedanib,regorafenib,simvastatin,,imatinib
+C0019069,TUROCTOCOG ALFA,NONACOG BETA PEGOL,Kappadione,,MOROCTOCOG ALFA,Coagulation Factor IX,,,,THROMBIN ALFA
+C0392784,halofuginone,Collagenase clostridium histolyticum,glucosamine,regorafenib,palifermin,minocycline,sorafenib,Ranibizumab,pazopanib,imatinib
+C0036920,Arsenic trioxide,,regorafenib,fostamatinib,aspirin,Etanercept,sorafenib,isoprenaline,fulvestrant,ospemifene
+C0376358,nintedanib,ponatinib,lenvatinib,palifermin,Heparin,aspirin,regorafenib,vandetanib,fostamatinib,hyaluronidase (ovine)
+C0021051,Rituximab,Ibritumomab tiuxetan,Tositumomab,zinc,fostamatinib,ofatumumab,ocrelizumab,obinutuzumab,aspirin,bosutinib
+C0032987,zinc,Thalidomide,Iron,IRON DEXTRAN,sodium ferric gluconate complex,lidocaine,pirfenidone,Aluminium chloride,,amsacrine
+C0005695,,,ademetionine,zinc,estradiol cypionate,estradiol,fostamatinib,fulvestrant,bazedoxifene,ospemifene
+C0018834,,Acetohydroxamic Acid,fostamatinib,Filgrastim,regorafenib,fulvestrant,ospemifene,Urokinase,vemurafenib,
+C0024115,chloramphenicol,carvedilol,Mecasermin,regorafenib,Pseudoephedrine,Becaplermin,epinephrine,ponatinib,Insulin Glargine,Insulin Lispro
+C0002893,Thalidomide,ridogrel,ozagrel,pomalidomide,Certolizumab pegol,golimumab,Infliximab,lenalidomide,pirfenidone,glucosamine
+C0948896,Estrone,NADH,norgestrel,ketoconazole,dihydrotestosterone,levonorgestrel,estradiol cypionate,estradiol,abiraterone,flutamide
+C0001430,zinc,isosorbide,Arsenic trioxide,fostamatinib,,aspirin,mesalazine,resveratrol,sulfasalazine,balsalazide
+C0001418,chlorpromazine,amitriptyline,clozapine,loxapine,amoxapine,iloprost,doxepin,olanzapine,mianserin,fostamatinib
+C0235063,ataluren,Vitamin C,N-Acetyl-D-glucosamine,SUCROSE,vincristine,Succinic acid,ixabepilone,colchicine,felodipine,podophyllotoxin
+C0019243,Monoethanolamine oleate,,NAFAMOSTAT,CONESTAT ALFA,zinc,,Iron,ECALLANTIDE,IRON DEXTRAN,Oxycodone
+C0018798,perampanel,cyclothiazide,Lithium,carvedilol,carfilzomib,thiopental,topiramate,fostamatinib,bortezomib,regorafenib
+C0282193,Iron,IRON DEXTRAN,isoflurophate,cisplatin,Oxycodone,Sucroferric Oxyhydroxide,Thalidomide,,sodium ferric gluconate complex,lidocaine
+C0028840,loteprednol,,halobetasol,medrysone,beclomethasone-dipropionate,ALCLOMETASONE,DIFLORASONE,methylprednisolone,,
+C0014175,zinc,spironolactone,progesterone,dexamethasone,NADH,agomelatine,fluticasone propionate,iloprost,bimatoprost,Fludrocortisone
+C0149925,Adenosine monophosphate,fostamatinib,regorafenib,Aminophylline,Theophylline,ponatinib,triflusal,,caffeine,fulvestrant
+C0042870,,Gentamicins,Calcidiol,alfacalcidol,,maxacalcitol,paricalcitol,dihydrotachysterol,calcipotriol,tacalcitol
+C0149931,cholic-acid,Oxygen,NADH,Valproic Acid,ospemifene,fulvestrant,,bazedoxifene,lamotrigine,ixabepilone
+C0270846,zolpidem,etizolam,zaleplon,carisoprodol,,primidone,clomethiazole,Nitrazepam,lamotrigine,Alprazolam
+C0023518,ponatinib,bosutinib,dasatinib,nilotinib,imatinib,IRON DEXTRAN,baricitinib,sodium ferric gluconate complex,,ruxolitinib
+C0018203,dextromethorphan,glycolic acid,fostamatinib,nalbuphine,NADH,methylnaltrexone,,diacerein,tamoxifen,Butorphanol
+C0017668,hyaluronidase (ovine),Tenecteplase,zinc,ocriplasmin,fostamatinib,chloramphenicol,,regorafenib,podophyllotoxin,
+C0042133,Succinic acid,coenzyme Q10,NADH,GINSENG,orlistat,Pseudoephedrine,Dalbavancin,Vitamin C,pirfenidone,L-Isoleucine
+C0009324,glucosamine,minocycline,fostamatinib,mesalazine,zinc,Polaprezinc,aspirin,hyaluronidase (ovine),nintedanib,regorafenib
+C0234974,meclofenamic-acid,,orlistat,,,fluconazole,itraconazole,sonidegib,vismodegib,efinaconazole
+C0022638,Adenosine monophosphate,,L-Isoleucine,,,NADH,orlistat,metformin,Biotin,meclofenamic-acid
+C0004364,zinc,Muromonab-CD3,Etanercept,trastuzumab,Abciximab,Adalimumab,Cetuximab,Gemtuzumab ozogamicin,Natalizumab,Rituximab
+C1527311,NADH,,L-Citrulline,,L-Arginine,coenzyme Q10,L-Aspartic Acid,pomalidomide,L-Isoleucine,
+C0334579,amoxicillin,ceftriaxone,cefadroxil,ibuprofen,cefotaxime,Benzoic Acid,ampicillin,Oxacillin,benzylpenicillin,penicillin-v-potassium
+C0018995,Thalidomide,Iron,,pirfenidone,Oxycodone,Certolizumab pegol,glucosamine,golimumab,Infliximab,chloroquine
+C0031485,sapropterin,L-Phenylalanine,droxidopa,epinephrine,telotristat ethyl,,pyridoxine,Pyridoxal Phosphate,metirosine,norepinephrine
+C0007137,zinc,Arsenic trioxide,iloprost,Rituximab,Tositumomab,Ibritumomab tiuxetan,laropiprant,fostamatinib,bimatoprost,epoprostenol
+C4048328,palifermin,lenvatinib,nintedanib,pazopanib,ponatinib,Heparin,regorafenib,fostamatinib,Thalidomide,sunitinib
+C0398650,Ibritumomab tiuxetan,Tositumomab,Rituximab,ofatumumab,obinutuzumab,ocrelizumab,cladribine,aspirin,fostamatinib,tamoxifen
+C0948089,colchicine,ixabepilone,vinorelbine,paclitaxel,Polaprezinc,zinc,glucosamine,,Etanercept,podophyllotoxin
+C0021655,zinc,isoprenaline,NADH,aspirin,fostamatinib,Mecasermin,Estrone,podophyllotoxin,Necitumumab,Pseudoephedrine
+C0014836,tocofersolan,hycanthone,Fentanyl,dextromethorphan,celecoxib,cyclophosphamide,ifosfamide,Isoniazid,deferasirox,tolperisone
+C0699791,palifermin,lenvatinib,nintedanib,ponatinib,Thalidomide,regorafenib,Heparin,copanlisib,idelalisib,trastuzumab
+C0006413,ponatinib,regorafenib,imatinib,sorafenib,Biotin,isoprenaline,sunitinib,cabozantinib,decitabine,pomalidomide
+C0029396,pentostatin,ribavirin,mycophenolic-acid,mycophenolate-mofetil,thioguanine,floxuridine,,capecitabine,,leucovorin
+C0271623,goserelin-acetate,Buserelin,gestrinone,danazol,gonadorelin,ganirelix,triptorelin,Histrelin,Abarelix,leuprolide
+C0004238,nifedipine,carvedilol,propafenone,dronedarone,verapamil,trimebutine,vernakalant,flecainide,cinchocaine,Valproic Acid
+C0024117,,Acetohydroxamic Acid,dextromethorphan,glucosamine,aspirin,Thalidomide,Filgrastim,triflusal,NADH,zinc
+C0085083,,,Follicle Stimulating Hormone,Choriogonadotropin alfa,Lutropin alfa,,selexipag,goserelin-acetate,Buserelin,promazine
+C0005697,carvedilol,,pentamidine,icosapent,Glutathione,Rosiglitazone,menadione,coumarin,,Phenol
+C0001618,aspirin,fulvestrant,Arsenic trioxide,ospemifene,fostamatinib,hyaluronidase (ovine),,bazedoxifene,Methyltestosterone,norgestimate
+C0154143,pinaverium,etizolam,zolpidem,Zopiclone,etifoxine,APROBARBITAL,barbital,Butethal,Amobarbital,Methylphenobarbital
+C0040136,regorafenib,sorafenib,Polaprezinc,ponatinib,imatinib,aspirin,sunitinib,Arsenic trioxide,lenalidomide,pomalidomide
+C0024473,deslanoside,cyclothiazide,,MAGNESIUM,almitrine,bretylium,Digitoxin,,digoxin,MAGNESIUM ACETATE
+C0020615,NADH,zonisamide,ethoxzolamide,brinzolamide,coenzyme Q10,Biotin,L-Isoleucine,zinc,Glutathione,Adenosine monophosphate
+C0024301,cyanocobalamin,floxuridine,,Trifluridine,doxifluridine,leucovorin,carmofur,capecitabine,pemetrexed,trimethoprim
+C0079774,doxycycline,azacitidine,decitabine,bosutinib,dasatinib,Abatacept,ponatinib,fostamatinib,nilotinib,nintedanib
+C0019080,menadione,CONESTAT ALFA,Urokinase,dicoumarol,NAFAMOSTAT,6-Aminocaproic Acid,loperamide,eptifibatide,,tirofiban
+C2937421,finasteride,,Azelaic Acid,dutasteride,anastrozole,testolactone,exemestane,letrozole,tenofovir-disoproxil,fluconazole
+C0034885,Necitumumab,gefitinib,erlotinib,pemetrexed,gemcitabine,fostamatinib,,ospemifene,fulvestrant,bazedoxifene
+C0236964,,thiethylperazine,,prochlorperazine,droperidol,levodopa,olopatadine,rotigotine,piribedil,benperidol
+C0004775,azosemide,piretanide,torasemide,etacrynic-acid,furosemide,bumetanide,potassium chloride,quinethazone,methyclothiazide,bendroflumethiazide
+C0010072,eptifibatide,tirofiban,Abciximab,halofuginone,dantrolene,tiludronate,vedolizumab,Ramucirumab,resveratrol,tetracycline
+C0085096,methoxsalen,simeprevir,tenofovir-disoproxil,tolperisone,Estrone,dihydrotestosterone,Isoniazid,norgestrel,finasteride,fluconazole
+C0007095,regorafenib,glucosamine,SUCROSE,Pseudoephedrine,hyaluronidase (ovine),sirolimus,sorafenib,fostamatinib,minocycline,Arsenic trioxide
+C0024894,ketoprofen,Buprenorphine,triflupromazine,flavoxate,,dicycloverine,Anisotropine Methylbromide,profenamine,imidafenacin,dimetindene
+C0022573,Heparin,Bemiparin,Fondaparinux,Enoxaparin,Sulodexide,Danaparoid,Antithrombin III,Tranexamic Acid,Streptokinase,Reteplase
+C0028738,NADH,fostamatinib,Adenosine monophosphate,Theophylline,triflusal,caffeine,fulvestrant,colchicine,,vemurafenib
+C0039621,hydroflumethiazide,quinethazone,bendroflumethiazide,trichlormethiazide,chlorthalidone,methyclothiazide,bumetanide,potassium chloride,furosemide,etacrynic-acid
+C0004239,aprindine,cinchocaine,procainamide,mexiletine,vernakalant,dyclonine,ranolazine,flecainide,fosphenytoin,
+C0037036,ouabain,deslanoside,NADH,fostamatinib,fulvestrant,aspirin,secukinumab,clodronic-acid,,fingolimod
+C0278996,,daratumumab,,Oprelvekin,meclizine,pheniramine,troleandomycin,rifaximin,,loperamide
+C1336708,lenvatinib,pazopanib,ponatinib,tiludronate,nintedanib,palifermin,halofuginone,sorafenib,sunitinib,imatinib
+C1527304,Ecothiopate,demecarium,resveratrol,rivastigmine,tacrine,edrophonium,bambuterol,pralidoxime,,insulin human
+C0011581,fostamatinib,Ethanol,haloperidol,Adenosine monophosphate,Ergoloid mesylate,DIHYDROERGOCRISTINE,insulin human,zinc,chlorpromazine,DIHYDROERGOCORNINE
+C0270851,meclofenamic-acid,retigabine,diclofenac,,ivabradine,dalfampridine,cinchocaine,aprindine,flunarizine,Theobromine
+C0034067,Acetohydroxamic Acid,,glucosamine,captopril,minocycline,Filgrastim,halofuginone,tiludronate,fenofibrate,pirfenidone
+C0311277,caffeine,aurothioglucose,trapidil,isosorbide-dinitrate,molsidomine,isosorbide-mononitrate,riociguat,tadalafil,propentofylline,mirodenafil
+C0030567,Polaprezinc,Mecasermin,Glutathione,fostamatinib,Amphetamine,zinc,Methamphetamine,podophyllotoxin,Insulin Glargine,Insulin Lispro
+C0271568,Pegvisomant,Somatropin recombinant,PEGINESATIDE,Darbepoetin alfa,Erythropoietin,METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA,estramustine,sunitinib,dasatinib,
+C0012739,Kappadione,Sodium Tetradecyl Sulfate,,,Coagulation Factor IX,,menadione,Coagulation factor VIIa Recombinant Human,cupric chloride,ANTITHROMBIN ALFA
+C0009319,glucosamine,mesalazine,Polaprezinc,minocycline,diacerein,apremilast,golimumab,Certolizumab pegol,Infliximab,pirfenidone
+C0027796,rufinamide,abiraterone,cyclandelate,nisoldipine,nifedipine,isradipine,diltiazem,Magnesium Sulfate,amlodipine,naloxone
+C0010674,triamterene,amiloride,ivacaftor,tezacaftor,lumacaftor,capsaicin,CROFELEMER,hyaluronidase (ovine),Dexibuprofen,bumetanide
+C0271578,goserelin-acetate,Buserelin,gestrinone,danazol,gonadorelin,ganirelix,triptorelin,Histrelin,Abarelix,Nafarelin
+C1849508,NADH,toloxatone,pargyline,isocarboxazid,,,linezolid,selegiline,procarbazine,moclobemide
+C0039590,ospemifene,Polaprezinc,fulvestrant,,Arsenic trioxide,glucosamine,quinestrol,aspirin,doxorubicin,Conjugated Estrogens
+C0040053,,Kappadione,menadione,Heparin,,MOROCTOCOG ALFA,TUROCTOCOG ALFA,amrinone,Coagulation Factor IX,
+C0013386,prochlorperazine,,levodopa,flupentixol,rotigotine,pimozide,pipamperone,pramipexole,ropinirole,Apomorphine
+C0034063,aspirin,dabrafenib,fostamatinib,estramustine,Adenosine monophosphate,L-Glutamic Acid,dacarbazine,Diethylstilbestrol,estradiol cypionate,metformin
+C0021308,,L-Isoleucine,,topiroxostat,N-Acetyl-D-glucosamine,allopurinol,febuxostat,L-Valine,carfilzomib,TUROCTOCOG ALFA
+C0270458,phentermine,Benzphetamine,mazindol,dextroamphetamine,duloxetine,clomipramine,Methamphetamine,minaprine,Amphetamine,Nefazodone
+C0015456,Oprelvekin,pyridoxal,pyridoxine,thiotepa,tesamorelin,Sermorelin,SIMOCTOCOG ALFA,rifapentine,pentolinium,levallorphan
+C0002894,,loperamide,ketoconazole,doxylamine,zinc,Acetohydroxamic Acid,Iron,Oxygen,meclizine,isoflurophate
+C0002880,cladribine,fludarabine,pentostatin,aldesleukin,Denileukin diftitox,,,Theobromine,Defibrotide,fostamatinib
+C0026705,N-Acetyl-D-glucosamine,bleomycin,hydralazine,trimetazidine,Glutathione,L-Isoleucine,carmustine,NADH,cobimetinib,pantoprazole
+C0023480,nilotinib,Becaplermin,imatinib,sunitinib,pazopanib,sorafenib,regorafenib,lenvatinib,Polaprezinc,dasatinib
+C0342788,levocarnitine,L-Lysine,,trientine,acenocoumarol,phenindione,phenprocoumon,sulfasalazine,droxicam,
+C0029191,,naloxone,paclitaxel,,isoflurophate,Thalidomide,zinc,dipivefrine,bambuterol,amiodarone
+C0023443,vemurafenib,cobimetinib,trametinib,dabrafenib,sorafenib,regorafenib,bosutinib,fostamatinib,homoharringtonine,Testosterone Propionate
+C0003962,aspirin,,,,,MOROCTOCOG ALFA,fostamatinib,,THROMBIN ALFA,THROMBOMODULIN ALFA
+C0024305,raltitrexed,floxuridine,leucovorin,,capecitabine,doxifluridine,carmofur,Trifluridine,pralatrexate,trimethoprim
+C0151942,Romiplostim,eltrombopag,Sodium Tetradecyl Sulfate,Kappadione,,,tofacitinib,baricitinib,,ruxolitinib
+C0013595,dextromethorphan,zinc,fostamatinib,NADH,cholic-acid,"insulin, neutral",Biotin,podophyllotoxin,belinostat,L-Aspartic Acid
+C0031046,fostamatinib,fulvestrant,Arsenic trioxide,ospemifene,Necitumumab,,dimethyl-fumarate,gefitinib,bazedoxifene,aspirin
+C0035220,NAFAMOSTAT,cyclandelate,acenocoumarol,felodipine,Heroin,phenindione,Dextropropoxyphene,phenprocoumon,bepridil,levosimendan
+C0004943,simvastatin,Tenecteplase,Anistreplase,Reteplase,Alteplase,,Natalizumab,naloxone,NAFAMOSTAT,Urokinase
+C0016412,dapsone,Trimetrexate,methotrexate,trimethoprim,pralatrexate,Gentamicins,pemetrexed,raltitrexed,carmofur,floxuridine
+C0687150,mebendazole,colchicine,fulvestrant,vincristine,podophyllotoxin,ixabepilone,Rifabutin,clodronic-acid,vinorelbine,vindesine
+C0702166,NADH,glycolic acid,Thalidomide,palifermin,ponatinib,nintedanib,regorafenib,naloxone,lenvatinib,ospemifene
+C0023481,Filgrastim,sulfasalazine,flumethasone,prednicarbate,desoximetasone,desonide,clobetasol-propionate,niflumic-acid,sargramostim,homoharringtonine
+C0035585,estramustine,ivabradine,cyanocobalamin,cyclobenzaprine,Salmon Calcitonin,Ranibizumab,Pegaptanib,fostamatinib,ripasudil,Hydroxocobalamin
+C0700201,thiotepa,pyridoxine,pyridoxal,tesamorelin,Oprelvekin,Sermorelin,rifapentine,pentolinium,daratumumab,levallorphan
+C1527249,Oxygen,cholic-acid,vemurafenib,sorafenib,dabrafenib,urea,idelalisib,copanlisib,regorafenib,fulvestrant
+C0002895,leflunomide,atovaquone,teriflunomide,sodium ferric gluconate complex,IRON DEXTRAN,carvedilol,Oxygen,Thalidomide,oxymetholone,L-Aspartic Acid
+C0037769,Valproic Acid,eslicarbazepine-acetate,tetracaine,lidocaine,carbamazepine,rufinamide,riluzole,phenytoin,ethotoin,mephenytoin
+C0085681,Adenosine monophosphate,amlexanox,Theophylline,apremilast,tetracaine,dantrolene,doxofylline,caffeine,iloprost,ibudilast
+C0023052,CONESTAT ALFA,Urokinase,Etanercept,TUROCTOCOG ALFA,6-Aminocaproic Acid,Abciximab,Tenecteplase,NAFAMOSTAT,Cetuximab,trastuzumab
+C0014173,SUCROSE,PORFIMER SODIUM,dacarbazine,sodium ferric gluconate complex,Omega-3-carboxylic acids,,fingolimod,IRON DEXTRAN,fulvestrant,ouabain
+C0751674,fostamatinib,romidepsin,regorafenib,estradiol cypionate,tretinoin,belinostat,estradiol,panobinostat,vorinostat,Mecasermin
+C0020598,miglitol,voglibose,L-Cystine,scopolamine,acarbose,dasatinib,fostamatinib,loperamide,L-Phenylalanine,Adenosine monophosphate
+C0001973,amoxapine,Ethanol,olanzapine,Midazolam,oxazepam,Halazepam,Flurazepam,diazepam,Temazepam,Nitrazepam
+C0027022,ponatinib,pazopanib,regorafenib,nintedanib,imatinib,sunitinib,dasatinib,sorafenib,bosutinib,Becaplermin
+C0005283,leflunomide,atovaquone,teriflunomide,IRON DEXTRAN,sodium ferric gluconate complex,Iron,Oxygen,Sucroferric Oxyhydroxide,L-Aspartic Acid,zinc
+C0524910,Oxycodone,Thalidomide,Sucroferric Oxyhydroxide,Iron,sodium ferric gluconate complex,lidocaine,disopyramide,amsacrine,IRON DEXTRAN,CONESTAT ALFA
+C0040046,,Sodium Tetradecyl Sulfate,Kappadione,,,Arsenic trioxide,menadione,fostamatinib,fulvestrant,podophyllotoxin
+C0004604,nitisinone,6-Aminocaproic Acid,CONESTAT ALFA,Urokinase,Dexibuprofen,ibuprofen,L-Phenylalanine,MOROCTOCOG ALFA,,Tenecteplase
+C0149704,Rilonacept,Streptokinase,Tranexamic Acid,6-Aminocaproic Acid,Reteplase,Anistreplase,Alteplase,Aprotinin,Urokinase,Tenecteplase
+C0042109,omalizumab,ponatinib,regorafenib,mesalazine,pazopanib,minocycline,imatinib,"insulin, neutral",sunitinib,glucosamine
+C0018213,etizolam,zolpidem,etifoxine,Zopiclone,Butethal,calcitriol,APROBARBITAL,Amobarbital,barbital,Methylphenobarbital
+C0080274,etizolam,zolpidem,glutamine-(l),tetracycline,mercaptopurine,azathioprine,Zopiclone,etifoxine,barbital,APROBARBITAL
+C0162568,tiagabine,oxymetholone,glucosamine,Treprostinil,carvedilol,amlexanox,aldesleukin,Denileukin diftitox,minocycline,galantamine
+C0025637,sodium ferric gluconate complex,IRON DEXTRAN,CHROMIUM,Isoniazid,Nafcillin,simeprevir,tenofovir-disoproxil,telithromycin,Oxygen,Ritonavir
+C0013144,ouabain,loperamide,liothyronine,repaglinide,amiodarone,levothyroxine,Dextrothyroxine,nateglinide,glipizide,mitiglinide
+C0007131,Rituximab,Ibritumomab tiuxetan,Tositumomab,fostamatinib,ofatumumab,ocrelizumab,obinutuzumab,zinc,regorafenib,aspirin
+C0150055,NADH,colchicine,vinorelbine,MAGNESIUM,,ixabepilone,digoxin,almitrine,bretylium,MAGNESIUM ACETATE
+C0026896,Oxycodone,Sucroferric Oxyhydroxide,Thalidomide,Iron,lidocaine,disopyramide,sodium ferric gluconate complex,amsacrine,IRON DEXTRAN,zinc
+C0020217,cupric chloride,,Ximelagatran,Lepirudin,bivalirudin,,,CONESTAT ALFA,pirfenidone,Monoethanolamine oleate
+C0011633,glucosamine,Rilonacept,,pirfenidone,Certolizumab pegol,Infliximab,golimumab,chloroquine,lenalidomide,pomalidomide
+C0473527,amiodarone,clinofibrate,mesalazine,Lobeglitazone,fenofibrate,bezafibrate,balsalazide,Rosiglitazone,fenofibric-acid,icosapent
+C0259817,,fostamatinib,regorafenib,bosutinib,NADH,Arsenic trioxide,ospemifene,fulvestrant,nandrolone,sorafenib
+C0015469,lenalidomide,Denosumab,quinidine,ibutilide,sulfinpyrazone,adenosine,N-Acetyl-D-glucosamine,Sucroferric Oxyhydroxide,L-Lysine,thiocolchicoside
+C0022548,zinc,IRON DEXTRAN,zaleplon,amsacrine,norelgestromin,fostamatinib,Iron,Tenecteplase,Phenol,
+C0027430,fostamatinib,MOROCTOCOG ALFA,pazopanib,bosutinib,,Polaprezinc,icosapent,,aspirin,regorafenib
+C0027424,palifermin,lenvatinib,nintedanib,pazopanib,sunitinib,ponatinib,sorafenib,Heparin,regorafenib,carvedilol
+C0022951,miglitol,voglibose,acarbose,scopolamine,velaglucerase alfa,L-Cystine,Vitamin C,N-Acetyl-D-glucosamine,L-Phenylalanine,cytarabine
+C0206693,cabozantinib,imatinib,sunitinib,sorafenib,ponatinib,regorafenib,vandetanib,Tromethamine,fostamatinib,oxymetholone
+C0014549,physostigmine,Polaprezinc,isoflurophate,tacrine,dipivefrine,edrophonium,demecarium,rivastigmine,pralidoxime,
+C0033860,zinc,,aspirin,Polaprezinc,fostamatinib,glucosamine,Thalidomide,Etanercept,minocycline,Adalimumab
+C0042900,pazopanib,"MSH, 4-Nle-7-Phe-alpha-",fostamatinib,,ponatinib,,regorafenib,dasatinib,nintedanib,bosutinib
+C0023440,leflunomide,atovaquone,teriflunomide,profenamine,Biotin,,L-Aspartic Acid,memantine,magnesium carbonate,orphenadrine
+C0035222,Heparin,Bemiparin,Fondaparinux,Enoxaparin,Sulodexide,Danaparoid,Antithrombin III,TUROCTOCOG ALFA,Tranexamic Acid,
+C0740394,fenoprofen,ketoprofen,droxicam,,balsalazide,meloxicam,tenoxicam,etofenamate,oxaprozin,acemetacin
+C2316212,sacubitril,racecadotril,,MOROCTOCOG ALFA,vincristine,podophyllotoxin,Cetuximab,efalizumab,Bevacizumab,fostamatinib
+C0151940,Follicle Stimulating Hormone,Choriogonadotropin alfa,Omega-3-carboxylic acids,,Lutropin alfa,goserelin-acetate,Buserelin,fostamatinib,propylhexedrine,isoprenaline
+C0035579,Glycine,Teriparatide,alfacalcidol,calcipotriol,dihydrotachysterol,ergocalciferol,PARATHYROID HORMONE,paricalcitol,,Calcidiol
+C0019087,regorafenib,sorafenib,dabrafenib,fostamatinib,vemurafenib,ponatinib,Ecothiopate,podophyllotoxin,fulvestrant,
+C0079773,aspirin,dasatinib,regorafenib,tamoxifen,isosorbide,sorafenib,fostamatinib,glucosamine,vemurafenib,Arsenic trioxide
+C0027627,fostamatinib,zinc,amitriptyline,asenapine,dasatinib,Polaprezinc,fulvestrant,loxapine,doxepin,ospemifene
+C0008149,golimumab,Infliximab,Certolizumab pegol,pirfenidone,glucosamine,pomalidomide,amrinone,apremilast,lenalidomide,clenbuterol
+C0001623,loperamide,mitotane,benralizumab,aminoglutethimide,mesalazine,Nafcillin,etodolac,sulindac,balsalazide,sarilumab
+C0206686,podophyllotoxin,insulin human,"insulin, neutral",regorafenib,Necitumumab,gefitinib,dactinomycin,Mecasermin,sorafenib,erlotinib
+C0334634,Arsenic trioxide,,everolimus,temsirolimus,pimecrolimus,copanlisib,idelalisib,sirolimus,Lithium,urea
+C0029434,Collagenase clostridium histolyticum,halofuginone,Vitamin C,Succinic acid,Urokinase,SUCROSE,palifermin,,Tenecteplase,MOROCTOCOG ALFA
+C0032000,fostamatinib,Arsenic trioxide,aspirin,bosutinib,regorafenib,fulvestrant,podophyllotoxin,,Mecasermin,insulin human
+C0022575,doxycycline,,L-Arginine,L-Ornithine,L-Lysine,diazoxide,NADH,fulvestrant,minoxidil,ospemifene
+C0029408,NADH,Collagenase clostridium histolyticum,MOROCTOCOG ALFA,,zinc,fostamatinib,aspirin,fulvestrant,Tenecteplase,podophyllotoxin
+C0005684,palifermin,lenvatinib,nintedanib,pazopanib,ponatinib,Heparin,regorafenib,fostamatinib,Thalidomide,sunitinib
+C0024138,dextromethorphan,CONESTAT ALFA,palivizumab,Bevacizumab,efalizumab,Alemtuzumab,alefacept,Gemtuzumab ozogamicin,Adalimumab,Cetuximab
+C0221013,nilotinib,imatinib,lenvatinib,sunitinib,pazopanib,sorafenib,ponatinib,regorafenib,dacarbazine,dasatinib
+C1704417,,L-Arginine,L-Ornithine,L-Lysine,alendronate,ethinamate,norepinephrine,methocarbamol,Methamphetamine,reserpine
+C0003578,Biotin,MOROCTOCOG ALFA,,fostamatinib,vindesine,Eribulin,colchicine,Tenecteplase,fulvestrant,insulin human
+C0014038,ibrutinib,cisplatin,dasatinib,fostamatinib,bosutinib,panobinostat,romidepsin,regorafenib,belinostat,Arsenic trioxide
+C0017531,Siltuximab,GINSENG,Polaprezinc,ibudilast,Tocilizumab,Canakinumab,Rilonacept,Ranibizumab,Hydroxychloroquine,Pseudoephedrine
+C0042487,Heparin,Fondaparinux,Enoxaparin,Bemiparin,edoxaban,apixaban,rivaroxaban,Sulodexide,Danaparoid,Antithrombin III
+C0887833,etidronic-acid,tiludronate,alendronate,telmisartan,vandetanib,minocycline,fostamatinib,carvedilol,,CHONDROITIN SODIUM
+C0085682,calcipotriol,dihydrotachysterol,,Calcidiol,paricalcitol,doxercalciferol,alfacalcidol,ergocalciferol,tacalcitol,maxacalcitol
+C0085669,baricitinib,,ruxolitinib,tofacitinib,Romiplostim,eltrombopag,avatrombopag,aspirin,ponatinib,fostamatinib
+C0014170,Estrone,estradiol cypionate,estradiol,levonorgestrel,,fulvestrant,ospemifene,bazedoxifene,norgestrel,norgestimate
+C0007642,copanlisib,idelalisib,ibrutinib,Collagenase clostridium histolyticum,halofuginone,dasatinib,fostamatinib,ponatinib,Lithium,imatinib
+C0013390,oxytocin,abiraterone,CHROMIUM,carbetocin,vasopressin,,atosiban,Felypressin,Desmopressin,terlipressin
+C0042875,Lactose,Galsulfase,Idursulfase,Aprotinin,cyclandelate,montelukast,NAFAMOSTAT,,Dextropropoxyphene,thiamine
+C0013384,lidocaine,riluzole,tetracaine,rufinamide,ethotoin,phenytoin,carbamazepine,eslicarbazepine-acetate,oxcarbazepine,mephenytoin
+C0043202,Oxygen,cholic-acid,NADH,miglitol,acarbose,coenzyme Q10,aspirin,miconazole,icosapent,trimetazidine
+C0024299,fostamatinib,Arsenic trioxide,ospemifene,fulvestrant,aspirin,,zinc,bazedoxifene,dasatinib,cladribine
+C0553580,insulin human,fulvestrant,,ospemifene,Methyltestosterone,bazedoxifene,norgestimate,Arsenic trioxide,"insulin, neutral",
+C0013421,NADH,coenzyme Q10,thiamine,fostamatinib,cholic-acid,colchicine,,podophyllotoxin,aprepitant,netupitant
+C0268070,naloxegol,Diphenoxylate,fostamatinib,Hydrocodone,Oxymorphone,,Hydromorphone,Dezocine,Codeine,eluxadoline
+C0017152,allylestrenol,L-Lysine,,Biotin,potassium chloride,benzbromarone,fostamatinib,CARMELLOSE,vandetanib,bosutinib
+C0003872,Etanercept,Certolizumab pegol,Infliximab,golimumab,glucosamine,,triflusal,L-Arginine,Polaprezinc,lenalidomide
+C0022116,Iron,Theophylline,minocycline,Aminophylline,,zinc,adenosine,istradefylline,aspirin,
+C0032463,sodium ferric gluconate complex,IRON DEXTRAN,,tofacitinib,baricitinib,ruxolitinib,Romiplostim,eltrombopag,Oxygen,avatrombopag
+C0034012,goserelin-acetate,Buserelin,zinc,gestrinone,Choriogonadotropin alfa,Follicle Stimulating Hormone,danazol,,Lutropin alfa,gonadorelin
+C0027708,aspirin,urea,fostamatinib,copanlisib,podophyllotoxin,Arsenic trioxide,idelalisib,fulvestrant,ospemifene,ponatinib
+C0010417,fostamatinib,palifermin,oxandrolone,Testosterone Propionate,Nandrolone decanoate,nilutamide,NADH,enzalutamide,Drostanolone,stanozolol
+C0745103,zinc,PORFIMER SODIUM,Pegvisomant,Somatropin recombinant,Alirocumab,probucol,glyburide,,Becaplermin,Gentamicins
+C0042345,Collagenase clostridium histolyticum,halofuginone,,,Tenecteplase,Urokinase,regorafenib,fostamatinib,Tromethamine,dasatinib
+C0020517,omalizumab,CHONDROITIN SODIUM,zinc,Polaprezinc,glucosamine,minocycline,fostamatinib,,Thalidomide,amsacrine
+C0038358,glucosamine,minocycline,triflusal,mesalazine,balsalazide,sulindac,etodolac,meloxicam,sasapyrine,acemetacin
+C0005967,captopril,halofuginone,tiludronate,glucosamine,minocycline,pomalidomide,etodolac,mesalazine,balsalazide,iguratimod
+C0281361,fostamatinib,Arsenic trioxide,podophyllotoxin,fulvestrant,,dimethyl-fumarate,bazedoxifene,ospemifene,vemurafenib,clodronic-acid
+C0020503,Siltuximab,GINSENG,Polaprezinc,ibudilast,Bevacizumab,racecadotril,efalizumab,sacubitril,palivizumab,Adalimumab
+C0007194,NADH,coenzyme Q10,fostamatinib,aspirin,zinc,clodronic-acid,Rosiglitazone,fulvestrant,icosapent,bosutinib
+C0018671,Arsenic trioxide,,isosorbide,Necitumumab,gefitinib,erlotinib,5-fluorouracil,vandetanib,isoprenaline,sulindac
+C0008489,bepridil,felodipine,amiodarone,isradipine,pregabalin,gabapentin-enacarbil,spironolactone,gabapentin,Omega-3-carboxylic acids,IRON DEXTRAN
+C0029453,Adenosine monophosphate,caffeine,gestrinone,danazol,pentoxifylline,dipyridamole,milrinone,ketotifen,ibudilast,tofisopam
+C0007786,cholic-acid,Oxygen,,Acetohydroxamic Acid,minocycline,Arsenic trioxide,zinc,glucosamine,aspirin,fostamatinib
+C0033806,roflumilast,doxofylline,apremilast,amlexanox,ibudilast,dyphylline,ketotifen,Adenosine monophosphate,Theophylline,iloprost
+C0040156,,cyanocobalamin,floxuridine,,leucovorin,doxifluridine,carmofur,capecitabine,Trifluridine,raltitrexed
+C0027697,norelgestromin,Phenol,mestinon,amsacrine,erythromycin,Efonidipine,Natalizumab,cefotaxime,CONESTAT ALFA,Adalimumab
+C0001122,trilostane,aminoglutethimide,hydrocortisone,mitotane,NADH,rabeprazole,pantoprazole,,esomeprazole,boceprevir
+C0428974,halofuginone,Collagenase clostridium histolyticum,Urokinase,ocriplasmin,,Reteplase,Tenecteplase,Alteplase,captopril,zinc
+C0020649,spironolactone,dexamethasone,felodipine,prednisolone,progesterone,nimodipine,testosterone,fluticasone propionate,testosterone cypionate,Fludrocortisone
+C0036980,cholic-acid,NADH,Glutathione,trimetazidine,L-Isoleucine,pyridoxine,pyridoxal,Sermorelin,tesamorelin,carmustine
+C0038013,Ustekinumab,misoprostol,epoprostenol,grapiprant,Dinoprostone,L-Lysine,amiodarone,iloprost,bepridil,isoflurophate
+C1269683,L-Glutamic Acid,fostamatinib,minaprine,felodipine,tamoxifen,Adenosine monophosphate,Fluocinolone Acetonide,beclomethasone-dipropionate,Pyridoxal Phosphate,
+C0015624,streptozotocin,trimetazidine,Glutathione,carmustine,cholic-acid,N-Acetyl-D-glucosamine,NADH,L-Isoleucine,Valproic Acid,
+C0151714,velcalcetide,Neomycin,cinacalcet,,Spermine,tryptophan,fostamatinib,domperidone,resveratrol,colchicine
+C1837475,zinc,Pentosan Polysulfate,Canakinumab,Siltuximab,Mecasermin,AFLIBERCEPT,ursodiol,Ranibizumab,Heparin,Sermorelin
+C0015397,Tranexamic Acid,6-Aminocaproic Acid,Streptokinase,menadione,estramustine,Kappadione,loperamide,Dexibuprofen,cupric chloride,fostamatinib
+C0036572,NADH,,fostamatinib,MAGNESIUM ACETATE,Digitoxin,,almitrine,MAGNESIUM,digoxin,bretylium
+C0020476,clofibrate,clinofibrate,cefazolin,pioglitazone,fenofibric-acid,ciprofibrate,octanoic acid,etofibrate,fenofibrate,Rosiglitazone
+C0231528,Valproic Acid,NADH,colchicine,dasatinib,ixabepilone,podophyllotoxin,fostamatinib,vinorelbine,regorafenib,paclitaxel
+C0008311,halofuginone,Collagenase clostridium histolyticum,pazopanib,hyaluronidase (ovine),Pseudoephedrine,eptifibatide,regorafenib,fostamatinib,glucosamine,minocycline
+C0009806,levothyroxine,bumetanide,,etacrynic-acid,liothyronine,hydroflumethiazide,bleomycin,,Pegaptanib,furosemide
+C0020502,Arsenic trioxide,imatinib,sorafenib,sunitinib,,ponatinib,regorafenib,alfacalcidol,cabozantinib,
+C0271093,Omega-3-carboxylic acids,,fingolimod,cimetidine,ouabain,potassium chloride,bumetanide,ezetimibe,Hesperetin,L-Isoleucine
+C0033581,nitisinone,ibrutinib,L-Phenylalanine,dasatinib,PORFIMER SODIUM,nilotinib,sarilumab,fostamatinib,alendronate,baricitinib
+C0005741,fingolimod,safinamide,tranylcypromine,isocarboxazid,procarbazine,,pargyline,,rasagiline,linezolid
+C0035457,norelgestromin,erythromycin,mestinon,amsacrine,Phenol,cefotaxime,Efonidipine,rifampin,phensuximide,trimethadione
+C4083212,homoharringtonine,doxorubicin,fostamatinib,regorafenib,ixabepilone,vinorelbine,fulvestrant,bosutinib,ospemifene,
+C0034013,Lutropin alfa,,Choriogonadotropin alfa,Follicle Stimulating Hormone,goserelin-acetate,Buserelin,icosapent,resveratrol,mesalazine,balsalazide
+C0022665,Arsenic trioxide,,regorafenib,sorafenib,sulindac,dabrafenib,aspirin,fostamatinib,resveratrol,vemurafenib
+C0003873,"insulin, neutral",fostamatinib,Alitretinoin,zinc,minocycline,,dasatinib,Polaprezinc,Tenecteplase,NADH
+C0302280,abiraterone,trilostane,ketoconazole,carglumic-acid,NADH,metyrapone,mitotane,hydrocortisone,Isoniazid,tolperisone
+C0019618,ibandronate,pamidronate,fostamatinib,,tamoxifen,Niclosamide,fluorometholone,mestranol,,pyrazinamide
+C0409818,MOROCTOCOG ALFA,,N-Acetyl-D-glucosamine,podophyllotoxin,vincristine,Alteplase,Rifabutin,Mecasermin,Reteplase,Tenecteplase
+C0242698,dexamethasone,nimodipine,testosterone,fluticasone propionate,testosterone cypionate,Fludrocortisone,,drospirenone,prednisolone,potassium-canrenoate
+C0019156,L-Lysine,,L-Arginine,norepinephrine,ethinamate,methocarbamol,Methamphetamine,L-Ornithine,tetrabenazine,reserpine
+C1561643,minoxidil,Remikiren,aliskiren-hemifumarate,Pyridoxal Phosphate,fostamatinib,L-Cysteine,bosutinib,zinc,dasatinib,ospemifene
+C0220989,epirubicin,dapsone,methotrexate,calcitriol,paracetamol,Trimetrexate,pixantrone,finafloxacin,lomefloxacin,idarubicin
+C0032460,NADH,trilostane,fostamatinib,Choriogonadotropin alfa,Follicle Stimulating Hormone,Lutropin alfa,hydrocortisone,,aspirin,ribavirin
+C0342881,PORFIMER SODIUM,Alirocumab,,Gentamicins,insulin human,,"insulin, neutral",icosapent,docetaxel,
+C0019829,mycophenolate-mofetil,thioguanine,mycophenolic-acid,aspirin,brentuximab vedotin,tiludronate,paracetamol,Glycerin,sulfamethoxazole,clomipramine
+C0035455,olopatadine,pizotifen,trifluoperazine,fluphenazine,lumacaftor,ivacaftor,tezacaftor,chlorprothixene,pipamperone,promazine
+C0027051,fluoxymesterone,dexamethasone,felodipine,progesterone,testosterone,testosterone cypionate,fluticasone propionate,Fludrocortisone,,nimodipine
+C0085631,isosorbide-mononitrate,riociguat,tadalafil,isosorbide-dinitrate,trapidil,molsidomine,caffeine,aurothioglucose,propentofylline,mirodenafil
+C0030920,glucosamine,Rilonacept,minocycline,Canakinumab,Arsenic trioxide,ibudilast,diacerein,,fostamatinib,hyaluronidase (ovine)
+C0020514,,Lutropin alfa,Choriogonadotropin alfa,Follicle Stimulating Hormone,fluoxymesterone,Somatropin recombinant,acetophenazine,SULPIRIDE,minaprine,tetrabenazine
+C0014869,ephedrine,perindopril,trandolapril,cilazapril,fosinopril,quinapril,imidapril,benazepril,Pentosan Polysulfate,temocapril
+C0025322,,ibuproxam,,zileuton,flutamide,chlorzoxazone,vindesine,ixabepilone,GINSENG,diosmin
+C0002170,fostamatinib,zinc,,MOROCTOCOG ALFA,fulvestrant,,ospemifene,aspirin,Tenecteplase,Estrone
+C0233315,hydroflumethiazide,bumetanide,etacrynic-acid,trichlormethiazide,niflumic-acid,quinethazone,chlorthalidone,bendroflumethiazide,potassium chloride,furosemide
+C0272375,Fondaparinux,Bemiparin,Enoxaparin,Sulodexide,Danaparoid,Antithrombin III,Heparin,Tranexamic Acid,glycolic acid,TUROCTOCOG ALFA
+C0020474,clofibrate,Tyloxapol,clinofibrate,Omega-3-carboxylic acids,fostamatinib,gemfibrozil,orlistat,dasatinib,bosutinib,Dalbavancin
+C0036202,hyaluronidase (ovine),NADH,cholic-acid,Glutathione,zinc,isoprenaline,coenzyme Q10,Polaprezinc,prednisone,golimumab
+C0026987,ridogrel,,baricitinib,ozagrel,tofacitinib,ruxolitinib,sulfasalazine,Romiplostim,eltrombopag,avatrombopag
+C0007785,THROMBOMODULIN ALFA,,ANTITHROMBIN ALFA,TUROCTOCOG ALFA,NAFAMOSTAT,,Coagulation Factor IX,THROMBIN ALFA,,Kappadione
+C0006114,NADH,coenzyme Q10,L-Aspartic Acid,,L-Arginine,L-Citrulline,,L-Isoleucine,cholic-acid,carglumic-acid
+C0042024,bleomycin,dasatinib,,MOROCTOCOG ALFA,Becaplermin,fostamatinib,aspirin,regorafenib,nintedanib,Tenecteplase
+C0008677,triamterene,amiloride,minocycline,Tromethamine,CHONDROITIN SODIUM,Ranibizumab,Bevacizumab,AFLIBERCEPT,gliclazide,carvedilol
+C0020676,,levothyroxine,Dextrothyroxine,liothyronine,Rosiglitazone,amiodarone,icosapent,fostamatinib,NADH,estradiol cypionate
+C0029134,L-Glutamic Acid,Pyridoxal Phosphate,Lithium,fostamatinib,fulvestrant,ospemifene,bazedoxifene,,aspirin,zinc
+C0311375,Anakinra,ketoprofen,,Theophylline,regadenoson,fostamatinib,istradefylline,zinc,adenosine,Etanercept
+C0428977,imipramine,trimipramine,desipramine,nortriptyline,ziprasidone,quetiapine,aripiprazole,paliperidone,cinnarizine,doxepin
+C0013295,Reteplase,Anistreplase,Alteplase,Streptokinase,Tranexamic Acid,6-Aminocaproic Acid,Aprotinin,,triflusal,Tenecteplase
+C0036983,calcitriol,,triflusal,,L-Arginine,L-Citrulline,,dexamethasone,acetazolamide,miconazole
+C0023418,Arsenic trioxide,tamoxifen,Methyltestosterone,,ospemifene,fulvestrant,bazedoxifene,,norgestimate,podophyllotoxin
+C0039483,auranofin,NADH,Hesperetin,ezetimibe,cobimetinib,Aluminium chloride,axitinib,Pegvisomant,trametinib,fostamatinib
+C0221260,Tranexamic Acid,zinc,6-Aminocaproic Acid,Streptokinase,podophyllotoxin,fostamatinib,ixabepilone,vincristine,colchicine,Tenecteplase
+C0020461,dexamethasone,nimodipine,felodipine,testosterone cypionate,fluticasone propionate,prednisolone,Fludrocortisone,testosterone,,drospirenone
+C0035078,niflumic-acid,,Acetohydroxamic Acid,bleomycin,pirfenidone,zinc,Filgrastim,voglibose,L-Cystine,miglitol
+C0027497,loperamide,Fentanyl,glucosamine,dasatinib,apremilast,glutamine-(l),naloxone,mercaptopurine,golimumab,Infliximab
+C0008312,hyaluronidase (ovine),tezacaftor,ivacaftor,lumacaftor,capsaicin,CROFELEMER,Dexibuprofen,ibuprofen,Thalidomide,bumetanide
+C1142132,trimetazidine,levocarnitine,Glutathione,Omega-3-carboxylic acids,carmustine,NADH,L-Isoleucine,N-Acetyl-D-glucosamine,Succinic acid,
+C0025294,Oprelvekin,pyridoxal,pyridoxine,thiotepa,Thalidomide,tesamorelin,SIMOCTOCOG ALFA,Sermorelin,rifapentine,pentolinium
+C0152020,tipiracil,diosmin,perhexiline,L-Cysteine,L-Asparagine,trilostane,GINSENG,mexiletine,flutamide,atorvastatin
+C0002171,auranofin,Benzoic Acid,Denileukin diftitox,aldesleukin,Glutathione,icosapent,etidronic-acid,Rosiglitazone,,menadione
+C0451641,Adenine,,mercaptopurine,cladribine,bortezomib,NADH,,ixabepilone,L-Glutamic Acid,vincristine
+C0025323,,Coagulation Factor IX,Kappadione,ANTITHROMBIN ALFA,,TUROCTOCOG ALFA,NAFAMOSTAT,menadione,,MOROCTOCOG ALFA
+C0014868,capsaicin,Camphor,nonivamide,capsicum oleoresin,propacetamol,paracetamol,Arsenic trioxide,,icosapent,fostamatinib
+C0000809,ibrutinib,dasatinib,vorinostat,ponatinib,moxifloxacin,nintedanib,finafloxacin,levofloxacin,norfloxacin,ofloxacin
+C0042384,zinc,,paclitaxel,naloxone,Thalidomide,,ponatinib,cisplatin,ocriplasmin,fostamatinib
+C0234533,eslicarbazepine-acetate,ethotoin,rufinamide,phenacemide,oxcarbazepine,mephenytoin,lacosamide,tetracaine,phenytoin,carbamazepine
+C0919267,etidronic-acid,Arsenic trioxide,fostamatinib,,tiludronate,aspirin,fulvestrant,,ospemifene,bazedoxifene
+C0003469,dopamine,mianserin,imipramine,mirtazapine,zotepine,ziprasidone,,chlorpromazine,cabergoline,yohimbine
+C0031154,Eculizumab,Lithium,glucosamine,Thalidomide,Oxycodone,Sucroferric Oxyhydroxide,apremilast,zinc,,lidocaine
+C0003864,zinc,fostamatinib,Natalizumab,dasatinib,Etanercept,trastuzumab,Cetuximab,Muromonab-CD3,regorafenib,Adalimumab
+C0043515,Arsenic trioxide,fostamatinib,regorafenib,hyaluronidase (ovine),ponatinib,,dimethyl-fumarate,vemurafenib,bosutinib,Methyltestosterone
+C0021390,Polaprezinc,lenalidomide,pomalidomide,Thalidomide,GINSENG,aspirin,fostamatinib,golimumab,Certolizumab pegol,glucosamine
+C0017636,fostamatinib,Arsenic trioxide,minocycline,zinc,vandetanib,fulvestrant,Necitumumab,,podophyllotoxin,glucosamine
+C0034951,fulvestrant,ospemifene,fostamatinib,,bazedoxifene,regorafenib,podophyllotoxin,bosutinib,dasatinib,belinostat
+C0025874,insulin human,"insulin, neutral",pemetrexed,gemcitabine,fostamatinib,panobinostat,romidepsin,Succinic acid,belinostat,erlotinib
+C0751362,suvorexant,"insulin, neutral",tetracycline,acetylcysteine,cupric chloride,,MOROCTOCOG ALFA,L-Glutamic Acid,menadione,nicotinamide
+C0040034,fostamatinib,dasatinib,regorafenib,zinc,,MOROCTOCOG ALFA,bosutinib,vinblastine,podophyllotoxin,ospemifene
+C0948216,Canakinumab,Siltuximab,dihydrotachysterol,cholecalciferol,calcipotriol,,paricalcitol,loperamide,perindopril,tacalcitol
+C0036830,norelgestromin,erythromycin,mestinon,amsacrine,Phenol,Efonidipine,cefotaxime,rifampin,phensuximide,trimethadione
+C0018273,zinc,Mecasermin,isoflurophate,podophyllotoxin,GINSENG,minaprine,dipivefrine,ephedrine,resveratrol,Choline
+C0017168,,Acetohydroxamic Acid,NADH,Urokinase,regorafenib,fostamatinib,Filgrastim,vemurafenib,aspirin,L-Glutamic Acid
+C0687720,vemurafenib,dabrafenib,urea,Felypressin,carbetocin,vasopressin,,atosiban,Desmopressin,terlipressin
+C0004114,Estrone,Diethylstilbestrol,tamoxifen,fulvestrant,regorafenib,ospemifene,,bazedoxifene,Methyltestosterone,norgestimate
+C0019151,zaleplon,lorazepam,clonazepam,eszopiclone,diazepam,etomidate,Chlordiazepoxide,methyprylon,Glutethimide,clobazam
+C0027726,Heparin,fluoxymesterone,hydrocortisone,Bemiparin,Fondaparinux,Enoxaparin,Sulodexide,Danaparoid,Antithrombin III,Tranexamic Acid
+C0038160,perindopril,cilazapril,trandolapril,fosinopril,quinapril,imidapril,benazepril,temocapril,enalapril,deserpidine
+C0005587,topiramate,pirlindole,L-Glutamic Acid,trazodone,Nefazodone,vortioxetine,vilazodone,minaprine,phentermine,Methamphetamine
+C0022104,gabexate,ecabet,Siltuximab,Canakinumab,Rilonacept,GINSENG,vorapaxar,daratumumab,Streptokinase,pirfenidone
+C0006267,Ibritumomab tiuxetan,Rituximab,Tositumomab,ofatumumab,obinutuzumab,ocrelizumab,aspirin,amiloride,Thalidomide,zinc
+C0021141,Felypressin,carbetocin,vasopressin,,atosiban,Desmopressin,terlipressin,,oxytocin,tolvaptan
+C0038362,Rilonacept,Anistreplase,Alteplase,Reteplase,Streptokinase,6-Aminocaproic Acid,Tranexamic Acid,Aprotinin,Urokinase,Tenecteplase
+C0032897,fulvestrant,ospemifene,bazedoxifene,,melatonin,fostamatinib,homoharringtonine,mebendazole,resveratrol,vincristine
+C0003492,fostamatinib,regorafenib,bosutinib,vemurafenib,sorafenib,fulvestrant,ospemifene,trametinib,,cobimetinib
+C0018924,Kappadione,Coagulation Factor IX,,Coagulation factor VIIa Recombinant Human,menadione,,TUROCTOCOG ALFA,phytonadione,anisindione,NONACOG BETA PEGOL
+C0520679,palifermin,lenvatinib,nintedanib,pazopanib,ponatinib,aspirin,,bosentan,ambrisentan,Sitaxentan
+C0039685,Vitamin C,Succinic acid,fostamatinib,regorafenib,ospemifene,fulvestrant,vorinostat,bazedoxifene,,NADH
+C0011848,oxytocin,conivaptan,terlipressin,,tolvaptan,vasopressin,Desmopressin,atosiban,,Felypressin
+C0020459,retinol,fostamatinib,NADH,fulvestrant,ospemifene,,bazedoxifene,dipyridamole,pentoxifylline,podophyllotoxin
+C0011860,cholic-acid,Oxygen,NADH,zinc,fostamatinib,aspirin,tamoxifen,Thalidomide,Arsenic trioxide,miconazole
+C0005424,sulfinpyrazone,finasteride,,Azelaic Acid,indomethacin,fostamatinib,aspirin,Salicylic acid,bortezomib,belinostat
+C0042035,Methylene Blue,,Lactose,L-Citrulline,oxymetholone,carvedilol,fostamatinib,Galsulfase,Idursulfase,Phenobarbital
+C0016470,MOROCTOCOG ALFA,,,Tenecteplase,Anistreplase,,Reteplase,Rifabutin,tubocurarine,podophyllotoxin
+C0006105,ibuproxam,,,zileuton,minocycline,masoprocol,Pentosan Polysulfate,Ranibizumab,Aminophylline,Canakinumab
+C0043459,NADH,Glutathione,icosapent,podophyllotoxin,fulvestrant,vincristine,ixabepilone,panobinostat,aspirin,MOROCTOCOG ALFA
+C0023434,aspirin,lenalidomide,Arsenic trioxide,fostamatinib,,Iron,Polaprezinc,paclitaxel,fulvestrant,docetaxel
+C0149821,Icatibant,,ezetimibe,somatostatin,Lanreotide,cysteamine,octreotide,pasireotide,Vapreotide,mexiletine
+C3544321,prucalopride,mosapride,,Cinitapride,Cisapride,,tropisetron,ondansetron,metoclopramide,vilazodone
+C0027121,Rilonacept,Thalidomide,Iron,sodium ferric gluconate complex,Oxycodone,lidocaine,IRON DEXTRAN,amsacrine,Sucroferric Oxyhydroxide,disopyramide
+C0085580,L-Citrulline,,,L-Arginine,miconazole,candesartan-cilextil,Tasosartan,Azilsartan medoxomil,carvedilol,
+C0524620,ethinyl-estradiol,tamoxifen,Diethylstilbestrol,noretynodrel,Estrone,levonorgestrel,dienestrol,progesterone,,toremifene
+C0238052,,pyrazinamide,,sonidegib,orlistat,vismodegib,6-Aminocaproic Acid,tofogliflozin,Spermine,fluocinonide
+C0011875,amsacrine,norelgestromin,apremilast,Phenol,mestinon,erythromycin,Efonidipine,cefotaxime,amrinone,dipyridamole
+C0011849,cholic-acid,Oxygen,caffeine,dipyridamole,ketotifen,trapidil,Nitroglycerin,roflumilast,aurothioglucose,Nitroprusside
+C0271650,,Acetohydroxamic Acid,trilostane,estradiol cypionate,aspirin,estradiol,NADH,Valproic Acid,regorafenib,Mecasermin
+C0343755,Rilonacept,glucosamine,Infliximab,golimumab,Certolizumab pegol,Canakinumab,pirfenidone,Polaprezinc,Siltuximab,GINSENG
+C0242339,Iron,clinofibrate,PORFIMER SODIUM,GINSENG,clofibrate,flutamide,resveratrol,atorvastatin,Tromethamine,zinc
+C0033578,NADH,zinc,fostamatinib,MOROCTOCOG ALFA,Arsenic trioxide,Estrone,ospemifene,,,fulvestrant
+C0398623,Kappadione,apixaban,edoxaban,,rivaroxaban,menadione,ANTITHROMBIN ALFA,TUROCTOCOG ALFA,NONACOG BETA PEGOL,betrixaban
+C0677607,CONESTAT ALFA,Adalimumab,Cetuximab,Gemtuzumab ozogamicin,trastuzumab,Etanercept,Abciximab,Muromonab-CD3,Rituximab,Ibritumomab tiuxetan
+C0007193,felodipine,dexamethasone,nimodipine,spironolactone,progesterone,testosterone,fluticasone propionate,Fludrocortisone,testosterone cypionate,
+C0038363,pazopanib,,naloxone,paclitaxel,,dextromethorphan,fostamatinib,zinc,isoflurophate,Thalidomide
+C0020538,NADH,felodipine,fostamatinib,mirtazapine,naloxone,Adenosine monophosphate,loperamide,cyclothiazide,triflusal,zinc
+C0242488,raloxifene,hyaluronidase (ovine),fostamatinib,ponatinib,nintedanib,regorafenib,lenvatinib,dasatinib,bosutinib,sorafenib
+C2931618,pomalidomide,lenalidomide,podophyllotoxin,vincristine,vinorelbine,ospemifene,vindesine,fulvestrant,docetaxel,paclitaxel
+C0005586,Ethanol,topiramate,L-Glutamic Acid,fostamatinib,amoxapine,lamotrigine,olanzapine,Pentobarbital,primidone,zinc
+C0033975,Adenosine monophosphate,L-Glutamic Acid,fostamatinib,caffeine,dipyridamole,amrinone,Methylene Blue,aurothioglucose,pentoxifylline,apremilast
+C0014474,dimethyl-fumarate,vandetanib,fostamatinib,acetylcysteine,,bortezomib,fulvestrant,trastuzumab,ospemifene,bazedoxifene
+C0031190,carglumic-acid,cyanocobalamin,Morphine,Collagenase clostridium histolyticum,Siltuximab,quinapril,fosinopril,temocapril,chenodeoxycholic-acid,Hydroxocobalamin
+C0035335,aspirin,insulin human,Arsenic trioxide,ospemifene,fulvestrant,Methyltestosterone,bazedoxifene,,,quinestrol
+C3463824,fostamatinib,dasatinib,fulvestrant,,ponatinib,ospemifene,regorafenib,bazedoxifene,imatinib,Arsenic trioxide
+C0022661,icosapent,aspirin,sulfasalazine,mesalazine,indomethacin,resveratrol,Polaprezinc,dextromethorphan,Thalidomide,ibuprofen
+C0015967,etacrynic-acid,bumetanide,fostamatinib,hydroflumethiazide,furosemide,trichlormethiazide,zinc,potassium chloride,bendroflumethiazide,chlorthalidone
+C0015230,zinc,pirfenidone,Tenecteplase,fostamatinib,Reteplase,Alteplase,Anistreplase,regorafenib,dasatinib,ponatinib
+C0002994,mestinon,CONESTAT ALFA,norelgestromin,Phenol,amsacrine,erythromycin,"insulin, neutral",Efonidipine,cefotaxime,Urokinase
+C0005779,Heparin,Fondaparinux,Enoxaparin,Bemiparin,Sulodexide,Danaparoid,Antithrombin III,TUROCTOCOG ALFA,Kappadione,menadione
+C0920350,,,Lutropin alfa,liothyronine,levothyroxine,Dextrothyroxine,,TUROCTOCOG ALFA,vincristine,amiodarone
+C0018099,minocycline,glucosamine,mercaptopurine,diacerein,Rilonacept,azathioprine,ibudilast,,Canakinumab,
+C0241961,fostamatinib,Arsenic trioxide,,aspirin,regorafenib,temsirolimus,everolimus,ethynodiol-diacetate,,fulvestrant
+C0011644,L-Phenylalanine,epinephrine,sapropterin,droxidopa,norepinephrine,NADH,,ospemifene,fulvestrant,pemetrexed
+C0010200,isoprenaline,zinc,fostamatinib,Niclosamide,acitretin,dasatinib,ponatinib,bosutinib,Tenecteplase,regorafenib
+C0029442,ribavirin,streptozotocin,amifostine,alfacalcidol,maxacalcitol,dihydrotachysterol,calcipotriol,Calcidiol,ergocalciferol,paricalcitol
+C0029456,Adenosine monophosphate,amrinone,NADH,caffeine,apremilast,doxofylline,pentoxifylline,zinc,amlexanox,dipyridamole
+C0027686,Ramucirumab,Ranibizumab,cabozantinib,gliclazide,AFLIBERCEPT,CHONDROITIN SODIUM,axitinib,Tromethamine,ponatinib,lenvatinib
+C0011334,Tranexamic Acid,6-Aminocaproic Acid,Streptokinase,zinc,fostamatinib,Tenecteplase,podophyllotoxin,ponatinib,Reteplase,nintedanib
+C0040147,copanlisib,idelalisib,,Arsenic trioxide,fostamatinib,ospemifene,fulvestrant,Niclosamide,bazedoxifene,
+C0042963,NADH,spironolactone,dexamethasone,nimodipine,felodipine,bumetanide,progesterone,,testosterone,fluticasone propionate
+C0023437,fostamatinib,bezafibrate,alfacalcidol,halobetasol,vorinostat,ciprofibrate,etofibrate,megestrol acetate,ulipristal,
+C0022073,Denileukin diftitox,aldesleukin,ruxolitinib,tofacitinib,Muromonab-CD3,fostamatinib,baricitinib,palifermin,nintedanib,ponatinib
+C0030305,cholic-acid,Oxygen,lasofoxifene,,NADH,,,Filgrastim,Biotin,L-Aspartic Acid
+C0012833,thiamine,bepridil,loperamide,nifedipine,,rimexolone,fludroxycortide,triamcinolone,ciclesonide,fluocinonide
+C0042023,doxorubicin,,,Sodium stibogluconate,,clofarabine,dactinomycin,homoharringtonine,daunorubicin,etoposide
+C0001126,perhexiline,levocarnitine,L-Aspartic Acid,,Biotin,memantine,tramadol,magnesium carbonate,gabexate,felbamate
+C0020473,buphenine,isoprenaline,carvedilol,Phenol,norelgestromin,epinephrine,Adenosine monophosphate,clenbuterol,norepinephrine,amsacrine
+C0026764,isosorbide,Arsenic trioxide,,ponatinib,nintedanib,pazopanib,palifermin,lenvatinib,Polaprezinc,Eribulin
+C0029443,L-Serine,isoprenaline,quinidine,Rilonacept,IRON DEXTRAN,Pyridoxal Phosphate,imatinib,regorafenib,sodium ferric gluconate complex,zinc
+C0456909,NADH,cyclothiazide,perampanel,Lithium,topiramate,retinol,quinidine,carfilzomib,fostamatinib,
+C0013720,Collagenase clostridium histolyticum,Tranexamic Acid,Aprotinin,montelukast,,Streptokinase,cyclandelate,NAFAMOSTAT,zafirlukast,thiamine
+C0020507,Arsenic trioxide,,resveratrol,hyaluronidase (ovine),aspirin,minocycline,glucosamine,mesalazine,icosapent,lenalidomide
+C1306889,Romiplostim,eltrombopag,,baricitinib,tofacitinib,ruxolitinib,L-Serine,avatrombopag,nilotinib,Oxycodone
+C1140680,copanlisib,idelalisib,urea,oxymetholone,fulvestrant,,bazedoxifene,ospemifene,fostamatinib,Arsenic trioxide
+C0006271,Lithium,Vitamin E,pazopanib,almitrine,,,bretylium,MAGNESIUM ACETATE,,
+C1275126,fostamatinib,Arsenic trioxide,Certolizumab pegol,Infliximab,aspirin,fulvestrant,golimumab,pyrazinamide,ospemifene,
+C1621958,Insulin Lispro,Insulin Glargine,fostamatinib,vandetanib,trastuzumab,ponatinib,regorafenib,imatinib,Insulin Detemir,sunitinib
+C0003862,,Acetohydroxamic Acid,fostamatinib,Filgrastim,Collagenase clostridium histolyticum,ruxolitinib,regorafenib,zinc,tofacitinib,baricitinib
+C0039240,fostamatinib,sulfamethoxazole,pemetrexed,oxymetholone,entacapone,NAFAMOSTAT,aspirin,Tolcapone,Arsenic trioxide,OPICAPONE
+C0022660,Lithium,,Arsenic trioxide,Vitamin E,orlistat,,podophyllotoxin,Dalbavancin,Tyloxapol,romidepsin
+C0017181,Succinic acid,pirfenidone,ponatinib,regorafenib,MOROCTOCOG ALFA,,imatinib,fostamatinib,Tenecteplase,pazopanib
+C0877792,tretinoin,melatonin,Dextropropoxyphene,Heroin,NAFAMOSTAT,montelukast,Aprotinin,,cyclandelate,zafirlukast
+C0003123,cholic-acid,Oxygen,Ergoloid mesylate,DIHYDROERGOCRISTINE,serotonin,,DIHYDROERGOCORNINE,ondansetron,setiptiline,tropisetron
+C0220756,metreleptin,,Sodium Tetradecyl Sulfate,ouabain,gabexate,ezetimibe,,Hesperetin,Alirocumab,minoxidil
+C0037286,rasagiline,tranylcypromine,"MSH, 4-Nle-7-Phe-alpha-",Pyridoxal Phosphate,Spermine,Corticotropin,,procarbazine,toloxatone,selegiline
+C0024591,,galantamine,dantrolene,palifermin,tetracaine,pinaverium,isradipine,cyclophosphamide,cleviprex,nisoldipine
+C0220983,fluoxymesterone,hydrocortisone,NADH,Fluocinolone Acetonide,betamethasone,halobetasol,Tixocortol,DIFLORASONE,,ALCLOMETASONE
+C0282488,,alogliptin,vildagliptin,anagliptin,linagliptin,teneligliptin,sitagliptin,secukinumab,saxagliptin,ramatroban
+C2748055,L-Isoleucine,carmustine,L-Valine,TETRACHLORODECAOXIDE,pomalidomide,glycolic acid,lenalidomide,Abatacept,Thalidomide,bambuterol
+C0017601,fostamatinib,retinol,Arsenic trioxide,NADH,fulvestrant,,ospemifene,bazedoxifene,podophyllotoxin,panobinostat
+C0236663,Estrone,ketoconazole,nandrolone,norgestrel,dihydrotestosterone,levonorgestrel,Polaprezinc,clenbuterol,aminoglutethimide,anastrozole
+C0276535,venetoclax,edaravone,betaine,Eribulin,rasagiline,isosorbide,docetaxel,paclitaxel,Dexibuprofen,ibuprofen
+C0022876,Siltuximab,GINSENG,CHONDROITIN SODIUM,Polaprezinc,ibudilast,danazol,Canakinumab,Tocilizumab,Rilonacept,glucosamine
+C0542346,gefitinib,Necitumumab,erlotinib,fingolimod,felbinac,lidocaine,trastuzumab,fostamatinib,Cetuximab,vandetanib
+C0033774,amitriptyline,chlorpromazine,clozapine,loxapine,amoxapine,mianserin,doxepin,olanzapine,glyburide,probucol
+C0037274,Anakinra,zinc,ketoprofen,pirfenidone,fostamatinib,Theophylline,regorafenib,aspirin,NADH,Thalidomide
+C0346421,Becaplermin,imatinib,sunitinib,pazopanib,nintedanib,ponatinib,regorafenib,fostamatinib,SUCROSE,dasatinib
+C0021364,,Lutropin alfa,Choriogonadotropin alfa,Follicle Stimulating Hormone,zinc,goserelin-acetate,Buserelin,NADH,Estrone,norgestrel
+C0038379,NADH,fostamatinib,fulvestrant,ospemifene,,Valproic Acid,vemurafenib,bazedoxifene,regorafenib,
+C0014877,velaglucerase alfa,L-Glutamic Acid,dabrafenib,estradiol,Diethylstilbestrol,estradiol cypionate,acetylcysteine,gabapentin,Glutathione,fostamatinib
+C0011884,minocycline,Bevacizumab,Ranibizumab,Tromethamine,telmisartan,CHONDROITIN SODIUM,gliclazide,AFLIBERCEPT,Tasosartan,Azilsartan medoxomil
+C0020481,Tyloxapol,clofibrate,clinofibrate,Omega-3-carboxylic acids,,montelukast,Aprotinin,cyclandelate,NAFAMOSTAT,orlistat
+C0004245,levocarnitine,Valproic Acid,propafenone,aprindine,brivaracetam,lidocaine,cinchocaine,phenytoin,procainamide,tetracaine
+C0017563,CONESTAT ALFA,Abciximab,Etanercept,Muromonab-CD3,trastuzumab,Cetuximab,Adalimumab,Gemtuzumab ozogamicin,Ibritumomab tiuxetan,Rituximab
+C0017205,velaglucerase alfa,perindopril,deserpidine,benazepril,quinapril,,fosinopril,Spirapril,imidapril,cilazapril
+C0008325,glycolic acid,fostamatinib,dantrolene,tranilast,zinc,minocycline,L-Aspartic Acid,Glycerin,Pyruvic acid,NADH
+C0036220,Siltuximab,GINSENG,Polaprezinc,ibudilast,Tocilizumab,Canakinumab,Rilonacept,Ranibizumab,Hydroxychloroquine,cefazolin
+C0232940,goserelin-acetate,Buserelin,gestrinone,danazol,gonadorelin,ganirelix,triptorelin,Histrelin,Abarelix,leuprolide
+C0000786,halofuginone,cupric chloride,Sodium Tetradecyl Sulfate,,Levamisole,amifostine,tiludronate,tirofiban,Urokinase,eptifibatide
+C0020456,repaglinide,nateglinide,glipizide,icosapent,mesalazine,resveratrol,sulfasalazine,balsalazide,isoprenaline,diclofenac
+C0009952,phenytoin,brivaracetam,Valproic Acid,primidone,propofol,lidocaine,tetracaine,carbamazepine,eslicarbazepine-acetate,ethotoin
+C0026769,"insulin, neutral",minoxidil,nortriptyline,nateglinide,glipizide,yohimbine,carvedilol,mitiglinide,tolazamide,acetohexamide
+C0349464,disulfiram,NADH,toloxatone,pargyline,,isocarboxazid,Adenosine monophosphate,,,linezolid
+C0020640,,Ximelagatran,bivalirudin,,Lepirudin,,THROMBOMODULIN ALFA,ANTITHROMBIN ALFA,TUROCTOCOG ALFA,NAFAMOSTAT
+C0041296,Iron,Thalidomide,Oxycodone,sodium ferric gluconate complex,IRON DEXTRAN,amsacrine,lidocaine,,Sucroferric Oxyhydroxide,disopyramide
+C0040822,lamotrigine,primidone,topiramate,,zonisamide,Valproic Acid,Acetohydroxamic Acid,amoxapine,lidocaine,fostamatinib
+C0027661,ursodiol,rutin,Salicylic acid,chenodeoxycholic-acid,indomethacin,bimatoprost,diclofenac,,aspirin,Azelaic Acid
+C0178416,homoharringtonine,clodronic-acid,Sodium stibogluconate,,doxorubicin,vindesine,Phenazopyridine,Eribulin,fulvestrant,
+C0030446,mercaptopurine,glutamine-(l),azathioprine,dasatinib,Trifluridine,capecitabine,,doxifluridine,floxuridine,leucovorin
+C0035258,isoflurophate,cisplatin,loperamide,Iron,zinc,Thalidomide,tofacitinib,Oxycodone,lomustine,Becaplermin
+C0338908,Phenformin,amiodarone,boceprevir,rimexolone,,fludroxycortide,triamcinolone,ciclesonide,isradipine,tolbutamide
+C0151721,goserelin-acetate,Buserelin,gestrinone,danazol,gonadorelin,ganirelix,triptorelin,Histrelin,Abarelix,Nafarelin
+C0013274,fostamatinib,,fulvestrant,MOROCTOCOG ALFA,ospemifene,bosutinib,NADH,,regorafenib,podophyllotoxin
+C0175683,L-Arginine,,L-Citrulline,,L-Aspartic Acid,,glycolic acid,mebendazole,clodronic-acid,zinc
+C2936781,fenofibric-acid,niflumic-acid,pinaverium,,CROFELEMER,Gamma Hydroxybutyric Acid,cleviprex,fluoxetine,clomethiazole,nifedipine
+C0409959,Collagenase clostridium histolyticum,halofuginone,resveratrol,melatonin,ramelteon,Streptokinase,agomelatine,Reteplase,Anistreplase,Tenecteplase
+C0021775,L-Serine,pirfenidone,,L-Arginine,L-Ornithine,L-Lysine,terbinafine,Thalidomide,ethinamate,norepinephrine
+C0235974,cholic-acid,trimetazidine,Glutathione,NADH,carmustine,L-Isoleucine,N-Acetyl-D-glucosamine,Valproic Acid,Oxygen,coenzyme Q10
+C0730345,repaglinide,glimepiride,nateglinide,chlorpropamide,tolbutamide,glipizide,tolazamide,acetohexamide,nicorandil,gliclazide
+C0026998,sunitinib,sorafenib,nintedanib,ponatinib,vinorelbine,colchicine,ixabepilone,homoharringtonine,hycanthone,fulvestrant
+C0268483,nitisinone,L-Phenylalanine,Pyridoxal Phosphate,L-Glutamic Acid,L-Aspartic Acid,L-Cysteine,benserazide,,carbidopa,Glutathione
+C0020443,6-Aminocaproic Acid,carvedilol,zinc,fostamatinib,dasatinib,clinofibrate,ocriplasmin,Tenecteplase,NAFAMOSTAT,
+C0024143,halofuginone,tiludronate,captopril,glucosamine,sarilumab,minocycline,palivizumab,Alemtuzumab,Cetuximab,Bevacizumab
+C0000744,lomitapide,Hesperetin,Rifabutin,,zinc,MOROCTOCOG ALFA,Tenecteplase,,podophyllotoxin,aspirin
+C1961835,velaglucerase alfa,voglibose,miglitol,acarbose,L-Phenylalanine,Tolcapone,entacapone,OPICAPONE,vemurafenib,Phenformin
+C0020480,Tyloxapol,clofibrate,clinofibrate,Omega-3-carboxylic acids,carglumic-acid,Alirocumab,diacerein,PORFIMER SODIUM,Lactose,lomitapide
+C0036341,fostamatinib,tamoxifen,Ethanol,L-Glutamic Acid,isoprenaline,Arsenic trioxide,,zinc,ponatinib,acetylcysteine
+C0020523,omalizumab,racecadotril,sacubitril,neostigmine,,ambenonium,eucalyptol,Canakinumab,Siltuximab,Bevacizumab
+C0018916,regorafenib,sorafenib,sunitinib,vandetanib,ponatinib,imatinib,Arsenic trioxide,nintedanib,fostamatinib,Succinic acid
+C0085612,otilonium,tetracaine,azelnidipine,cleviprex,pinaverium,nisoldipine,isradipine,Efonidipine,nifedipine,levomenthol
+C0085606,estramustine,voglibose,vincristine,ixabepilone,aspirin,fostamatinib,podophyllotoxin,mebendazole,oxymetholone,resveratrol
+C0022650,sulfamethoxazole,loperamide,paracetamol,isoprenaline,deoxycholic-acid,clomipramine,etacrynic-acid,epinephrine,Glycerin,Glutathione
+C0021359,laropiprant,iloprost,misoprostol,alprostadil,Dinoprostone,travoprost,latanoprost,,Tafluprost,NADH
+C0949116,profenamine,Biotin,,L-Aspartic Acid,memantine,magnesium carbonate,orphenadrine,felbamate,gabexate,tramadol
+C0030297,somatostatin,cysteamine,octreotide,pasireotide,Vapreotide,Lanreotide,lasofoxifene,,sarilumab,etidronic-acid
+C0014335,allopurinol,febuxostat,topiroxostat,Spaglumic acid,vorapaxar,Streptokinase,brimonidine,celiprolol,apraclonidine,Guanabenz
+C0220994,brinzolamide,ethoxzolamide,zonisamide,L-Glutamic Acid,levocarnitine,Biotin,L-Aspartic Acid,NADH,,L-Arginine
+C0024586,rifapentine,Ritonavir,simeprevir,cyclophosphamide,telithromycin,Isoniazid,metronidazole,deferasirox,thiotepa,posaconazole
+C0836924,ponatinib,bosutinib,Romiplostim,eltrombopag,dasatinib,imatinib,nilotinib,Tenecteplase,,baricitinib
+C0040028,Romiplostim,eltrombopag,pazopanib,hyaluronidase (ovine),MOROCTOCOG ALFA,Tenecteplase,,baricitinib,,tofacitinib
+C0003850,zinc,ocriplasmin,sodium ferric gluconate complex,Thalidomide,amsacrine,cisplatin,IRON DEXTRAN,Iron,bacitracin,lidocaine
+C0014121,fostamatinib,,bazedoxifene,ospemifene,fulvestrant,mebendazole,Arsenic trioxide,podophyllotoxin,Necitumumab,vincristine
+C0042373,diazoxide,benzthiazide,hydroflumethiazide,hydrochlorothiazide,trichlormethiazide,chlorthalidone,bendroflumethiazide,quinethazone,chlorothiazide,methyclothiazide
+C0024790,L-Lysine,bacitracin,fluconazole,itraconazole,,MOROCTOCOG ALFA,acenocoumarol,phenindione,efinaconazole,phenprocoumon
+C0085610,benzonatate,Encainide,,moracizine,fosphenytoin,tocainide,dyclonine,ajmaline,cinchocaine,aprindine
+C0948008,Collagenase clostridium histolyticum,minocycline,halofuginone,hyaluronidase (ovine),ibuproxam,,zileuton,,masoprocol,glucosamine
+C0007820,,ambrisentan,bosentan,Sitaxentan,macitentan,Canakinumab,lorcaserin,sarpogrelate,Siltuximab,Fenfluramine
+C0021603,Fospropofol,zolpidem,Theobromine,Defibrotide,regadenoson,istradefylline,lamotrigine,taurine,thiocolchicoside,Glutethimide
+C0014733,fostamatinib,aspirin,Arsenic trioxide,mesalazine,panobinostat,gefitinib,Necitumumab,fulvestrant,bosutinib,ospemifene
+C0017574,Tenecteplase,Reteplase,Anistreplase,Alteplase,Streptokinase,Urokinase,Tranexamic Acid,Aprotinin,6-Aminocaproic Acid,Niclosamide
+C0024141,,Etanercept,Muromonab-CD3,Abciximab,Cetuximab,trastuzumab,Adalimumab,Gemtuzumab ozogamicin,Natalizumab,Bevacizumab
+C0494475,cholic-acid,Oxygen,primidone,Valproic Acid,lamotrigine,topiramate,NADH,propofol,zonisamide,tetracaine
+C0151723,hydroflumethiazide,quinethazone,trichlormethiazide,bendroflumethiazide,methyclothiazide,chlorthalidone,cyclothiazide,bumetanide,potassium chloride,furosemide
+C0002390,cholic-acid,trimetazidine,Glutathione,NADH,carmustine,L-Isoleucine,N-Acetyl-D-glucosamine,Oxygen,coenzyme Q10,Valproic Acid
+C0038018,boceprevir,felbinac,zinc,fostamatinib,mifepristone,velcalcetide,Tenecteplase,amsacrine,Neomycin,
+C0162316,IRON DEXTRAN,sodium ferric gluconate complex,isoprenaline,Oxygen,Iron,epinephrine,zinc,dopamine,fostamatinib,NADH
+C0034150,Ibritumomab tiuxetan,Rituximab,Tositumomab,ofatumumab,ocrelizumab,obinutuzumab,menadione,Kappadione,,Sodium Tetradecyl Sulfate
+C0282528,trimetazidine,Glutathione,Omega-3-carboxylic acids,N-Acetyl-D-glucosamine,L-Isoleucine,carmustine,NADH,cyclophosphamide,thiotepa,rifapentine
+C0027662,cabozantinib,imatinib,sunitinib,sorafenib,ponatinib,regorafenib,vandetanib,Tromethamine,fostamatinib,Insulin Glulisine
+C0024419,Anakinra,fostamatinib,auranofin,Arsenic trioxide,,dasatinib,bosutinib,aspirin,mesalazine,regorafenib
+C0029882,dextromethorphan,cladribine,ponatinib,quinidine,dasatinib,nintedanib,pazopanib,lenvatinib,palifermin,fostamatinib
+C0342731,Glutathione,tamoxifen,ibandronate,risedronate,,pamidronate,ezetimibe,fluvastatin,pitavastatin,rosuvastatin
+C1458155,fostamatinib,ospemifene,fulvestrant,norgestimate,,MOROCTOCOG ALFA,Methyltestosterone,,Arsenic trioxide,bazedoxifene
+C0085215,Ritonavir,Isoniazid,ifosfamide,cyclophosphamide,carisoprodol,tolperisone,amoxicillin,Estrone,dihydrotestosterone,levonorgestrel
+C0007570,"insulin, neutral",pazopanib,Niclosamide,acitretin,cefazolin,fostamatinib,Abatacept,Arsenic trioxide,Polaprezinc,fulvestrant
+C0032285,Ibritumomab tiuxetan,Rituximab,Tositumomab,ofatumumab,ocrelizumab,obinutuzumab,fostamatinib,glucosamine,baricitinib,zinc
+C0034186,allopurinol,febuxostat,topiroxostat,levocarnitine,,liraglutide,Albiglutide,Lixisenatide,Dulaglutide,exenatide
+C0001883,,latanoprost,travoprost,Tafluprost,laropiprant,iloprost,Dinoprostone,alprostadil,bimatoprost,misoprostol
+C0029458,glucosamine,Polaprezinc,Certolizumab pegol,Infliximab,golimumab,hyaluronidase (ovine),pirfenidone,pomalidomide,ibudilast,lenalidomide
+C0342527,trilostane,,Lutropin alfa,Choriogonadotropin alfa,Follicle Stimulating Hormone,hydrocortisone,NADH,rabeprazole,pantoprazole,
+C2930898,quinagolide,,levodopa,rotigotine,flupentixol,zuclopenthixol,fenoldopam,pimozide,pramipexole,ropinirole
+C0596263,regorafenib,bosutinib,ponatinib,imatinib,vemurafenib,sorafenib,nilotinib,dasatinib,dabrafenib,trastuzumab
+C0028949,Follicle Stimulating Hormone,Choriogonadotropin alfa,Lutropin alfa,,NADH,fluoxymesterone,progesterone,glycolic acid,goserelin-acetate,abiraterone
+C0019202,Polaprezinc,Iron,cisplatin,Thalidomide,zinc,,bacitracin,Becaplermin,ocriplasmin,
+C0030848,hyaluronidase (ovine),palifermin,lenvatinib,nintedanib,Insulin Lispro,ponatinib,Insulin Glargine,podophyllotoxin,ospemifene,quinestrol
+C0751753,carglumic-acid,cyanocobalamin,Morphine,Hydroxocobalamin,rifapentine,candesartan-cilextil,metronidazole,thiotepa,Ritonavir,Tyloxapol
+C0025289,,zinc,Natalizumab,Adalimumab,Bevacizumab,Cetuximab,Etanercept,trastuzumab,Abciximab,Muromonab-CD3
+C0009763,Heparin,Streptokinase,Alteplase,Tranexamic Acid,Reteplase,Anistreplase,Tenecteplase,TUROCTOCOG ALFA,ponatinib,regorafenib
+C0002965,,tretinoin,temozolomide,Lanreotide,pazopanib,Pseudoephedrine,pirfenidone,Vapreotide,Coagulation factor VIIa Recombinant Human,CHONDROITIN SODIUM
+C0085605,NADH,coenzyme Q10,icosapent,zinc,Glutathione,perhexiline,ixabepilone,levocarnitine,mesalazine,Rosiglitazone
+C0087012,profenamine,loperamide,Biotin,tamoxifen,,bepridil,memantine,acetylcysteine,magnesium carbonate,tramadol
+C0405580,cyanocobalamin,NADH,icosapent,Glutathione,Rosiglitazone,vinorelbine,colchicine,retinol,ixabepilone,vincristine
+C0026838,NADH,fostamatinib,fulvestrant,zinc,coenzyme Q10,,ospemifene,bazedoxifene,,pyrazinamide
+C0010346,,resveratrol,icosapent,zinc,indomethacin,Abciximab,Polaprezinc,fenofibric-acid,Rosiglitazone,bezafibrate
+C0149958,dronedarone,Phenazopyridine,phenacemide,mephenytoin,ethotoin,eslicarbazepine-acetate,lacosamide,isradipine,oxcarbazepine,nisoldipine
+C0040997,,Arsenic trioxide,glucosamine,Pseudoephedrine,tamoxifen,golimumab,Certolizumab pegol,Polaprezinc,Infliximab,lenalidomide
+C0085413,Lobeglitazone,fenofibric-acid,balsalazide,fenofibrate,clinofibrate,telmisartan,,repaglinide,pioglitazone,nateglinide
+C0042164,Phenol,norelgestromin,amsacrine,mestinon,Efonidipine,erythromycin,cefotaxime,buphenine,rifampin,phensuximide
+C0040015,eptifibatide,tirofiban,Abciximab,resveratrol,Phenformin,,minoxidil,MOROCTOCOG ALFA,levosimendan,tolbutamide
+C0085417,lacosamide,mephenytoin,phenacemide,oxcarbazepine,ethotoin,eslicarbazepine-acetate,rufinamide,tetracaine,phenytoin,tamoxifen
+C0037299,Tranexamic Acid,6-Aminocaproic Acid,Streptokinase,fostamatinib,regorafenib,fulvestrant,Tenecteplase,ospemifene,,
+C0751435,sapropterin,L-Phenylalanine,droxidopa,epinephrine,,norepinephrine,Pyridoxal Phosphate,NADH,aspirin,
+C0003128,isotretinoin,daratumumab,tamibarotene,tazarotene,rifaximin,troleandomycin,tretinoin,melatonin,Diethylstilbestrol,adapalene
+C0238462,cabozantinib,imatinib,regorafenib,sunitinib,sorafenib,ponatinib,ospemifene,fulvestrant,,bazedoxifene
+C0035854,safinamide,isocarboxazid,,procarbazine,pargyline,,linezolid,moclobemide,selegiline,toloxatone
+C0014859,aspirin,resveratrol,NADH,fostamatinib,mesalazine,sulindac,balsalazide,regorafenib,etodolac,icosapent
+C0011882,minocycline,captopril,halofuginone,tiludronate,glucosamine,racecadotril,sacubitril,Mecasermin,rufinamide,Insulin Lispro
+C0026948,Abatacept,Etanercept,glucosamine,Infliximab,golimumab,Certolizumab pegol,Canakinumab,Polaprezinc,,bosutinib
+C0025500,etidronic-acid,Arsenic trioxide,norgestimate,tiludronate,desogestrel,fostamatinib,ethynodiol-diacetate,fulvestrant,ospemifene,
+C0018681,omeprazole,lubiprostone,regorafenib,sorafenib,fostamatinib,bosutinib,Polaprezinc,dimercaprol,aspirin,deferoxamine-mesylate
+C0007789,rufinamide,mexiletine,diclofenac,ethotoin,flecainide,phenytoin,lidocaine,tetracaine,carbamazepine,Valproic Acid
+C0268490,Glutathione,Adenosine monophosphate,Necitumumab,,gefitinib,disulfiram,Lactose,entacapone,Tolcapone,erlotinib
+C0002418,vinorelbine,colchicine,ixabepilone,Collagenase clostridium histolyticum,levodopa,ademetionine,L-Cysteine,podophyllotoxin,vincristine,L-Serine
+C0006118,Arsenic trioxide,,dimethyl-fumarate,cefazolin,fostamatinib,minocycline,bortezomib,carvedilol,liothyronine,Pseudoephedrine
+C0014534,ibrutinib,dasatinib,fostamatinib,nilotinib,baricitinib,tofacitinib,ruxolitinib,,vinorelbine,ixabepilone
+C0002395,zinc,Mecasermin,insulin human,isoflurophate,fostamatinib,Choline,melatonin,galantamine,NADH,resveratrol
+C0004096,NADH,menadione,fluoxymesterone,,,Kappadione,,Coagulation Factor IX,hydrocortisone,Coagulation factor VIIa Recombinant Human
+C0342907,,demecarium,Alirocumab,tacrine,physostigmine,pralidoxime,Atezolizumab,selexipag,Nafcillin,edrophonium
+C0042029,,triflusal,loperamide,,L-Arginine,L-Citrulline,,dexamethasone,"MSH, 4-Nle-7-Phe-alpha-",miconazole
+C0020445,Tyloxapol,clofibrate,clinofibrate,PORFIMER SODIUM,Omega-3-carboxylic acids,amlodipine,zinc,chlorpromazine,cefazolin,desipramine
+C3495559,mycophenolate-mofetil,mycophenolic-acid,thioguanine,fostamatinib,mercaptopurine,zinc,ribavirin,Arsenic trioxide,podophyllotoxin,fulvestrant
+C1134719,bimatoprost,epoprostenol,Dinoprostone,bupivacaine,Carboprost Tromethamine,laropiprant,iloprost,alprostadil,,latanoprost
+C0011854,fluoxymesterone,hydrocortisone,NADH,apremilast,vemurafenib,Thalidomide,Pseudoephedrine,zinc,Etanercept,"insulin, neutral"
+C0020479,Tyloxapol,sodium ferric gluconate complex,IRON DEXTRAN,Becaplermin,ocriplasmin,bacitracin,zinc,almitrine,,MAGNESIUM
+C1861172,Bemiparin,Sulodexide,Fondaparinux,Enoxaparin,Danaparoid,Antithrombin III,Heparin,THROMBOMODULIN ALFA,TUROCTOCOG ALFA,THROMBIN ALFA
+C0042571,thiamine,bepridil,loperamide,nifedipine,,rimexolone,fludroxycortide,triamcinolone,ciclesonide,aprindine
+C0039841,repaglinide,glimepiride,tolbutamide,chlorpropamide,nateglinide,glipizide,tolazamide,acetohexamide,nicorandil,gliclazide
+C0026961,ixabepilone,colchicine,vinorelbine,cilostazol,amrinone,calcitriol,clodronic-acid,mebendazole,vincristine,milrinone
+C0595948,zolpidem,Fospropofol,Phenazopyridine,primidone,Nitrazepam,lamotrigine,topiramate,Pentobarbital,butabarbital,Dehydroepiandrosterone
+C0032914,,Iron,IRON DEXTRAN,sodium ferric gluconate complex,Sucroferric Oxyhydroxide,L-Citrulline,,Oxygen,,THROMBIN ALFA
+C0024031,Urokinase,Collagenase clostridium histolyticum,,ocriplasmin,bacitracin,palifermin,Becaplermin,PORFIMER SODIUM,,
+C0036421,"insulin, neutral",Collagenase clostridium histolyticum,,Muromonab-CD3,palifermin,ocriplasmin,,ospemifene,fostamatinib,fulvestrant
+C0038356,fostamatinib,zinc,raloxifene,Arsenic trioxide,fulvestrant,,ospemifene,NADH,bazedoxifene,tiludronate
+C0037930,fostamatinib,belinostat,romidepsin,panobinostat,podophyllotoxin,vemurafenib,vincristine,fulvestrant,colchicine,
+C0238463,regorafenib,sorafenib,imatinib,fostamatinib,ponatinib,ospemifene,fulvestrant,,bazedoxifene,mesalazine
+C0015944,SUCROSE,L-Lysine,L-Ornithine,,L-Arginine,Vitamin C,N-Acetyl-D-glucosamine,Succinic acid,terbinafine,L-Isoleucine
+C0003868,mercaptopurine,azathioprine,,miglitol,voglibose,L-Phenylalanine,acarbose,vinorelbine,ixabepilone,colchicine
+C0262584,,pimecrolimus,temsirolimus,everolimus,sirolimus,coumarin,methoxsalen,ifosfamide,cyclophosphamide,reserpine
+C0023212,PORFIMER SODIUM,Glycerin,fostamatinib,,hyaluronidase (ovine),Tromethamine,SUCROSE,Gentamicins,Rifabutin,glucosamine
+C1394891,debrisoquin,guanethidine,guanadrel,viloxazine,reboxetine,Levomilnacipran,protriptyline,Dexmethylphenidate,desvenlafaxine,methylphenidate
+C0009404,zinc,fostamatinib,pirfenidone,pioglitazone,Pyridoxal Phosphate,rasagiline,L-Ornithine,Arsenic trioxide,tranylcypromine,glyburide
+C0751434,sapropterin,L-Phenylalanine,,telotristat ethyl,metirosine,droxidopa,epinephrine,carbidopa,,benserazide
+C0040038,Kappadione,,menadione,Sodium Tetradecyl Sulfate,,THROMBOMODULIN ALFA,6-Aminocaproic Acid,NAFAMOSTAT,Coagulation Factor IX,
+C0017160,vorapaxar,Streptokinase,imiquimod,benfotiamine,Hydroxychloroquine,Rimonabant,Siltuximab,Buprenorphine,pindolol,ursodiol
+C0017612,,iguratimod,,,Lumiracoxib,tenoxicam,lornoxicam,Bromfenac,meloxicam,phenazone
+C0013338,,loperamide,rifaximin,troleandomycin,ketoconazole,meclizine,doxylamine,pheniramine,flutamide,
+C0238111,zolpidem,Fospropofol,Phenazopyridine,Nitrazepam,primidone,lamotrigine,topiramate,Pentobarbital,acamprosate,Dehydroepiandrosterone
+C0017638,fostamatinib,regorafenib,sorafenib,podophyllotoxin,aspirin,ponatinib,Arsenic trioxide,fulvestrant,Iron,ospemifene
+C0151686,NADH,L-Phenylalanine,fostamatinib,coenzyme Q10,quinidine,zinc,Adenosine monophosphate,fulvestrant,aspirin,ospemifene
+C0021361,,Lutropin alfa,Choriogonadotropin alfa,Follicle Stimulating Hormone,spironolactone,Estrone,progesterone,estradiol cypionate,estradiol,levonorgestrel
+C0003467,cholic-acid,Oxygen,caffeine,Adenosine monophosphate,gestrinone,danazol,ketotifen,aurothioglucose,pentoxifylline,dyphylline
+C0002962,pirfenidone,PORFIMER SODIUM,baricitinib,tofacitinib,,ruxolitinib,,avatrombopag,Romiplostim,eltrombopag
+C0002792,zinc,dextromethorphan,,Reteplase,Tenecteplase,ocriplasmin,Anistreplase,bacitracin,cisplatin,Urokinase
+C0018133,dutasteride,letrozole,testolactone,anastrozole,exemestane,finasteride,cyanocobalamin,aminoglutethimide,fluconazole,efinaconazole
+C1328407,doxorubicin,vincristine,homoharringtonine,Sodium stibogluconate,podophyllotoxin,,,vindesine,colchicine,dactinomycin
+C0015371,,Acetohydroxamic Acid,zinc,Filgrastim,Iron,boceprevir,NADH,,Thalidomide,fulvestrant
+C0011881,CHONDROITIN SODIUM,regorafenib,fostamatinib,vandetanib,minocycline,nintedanib,sorafenib,ponatinib,tamoxifen,Glycerin
+C0023827,Lithium,fostamatinib,orlistat,Vitamin E,Potassium perchlorate,belinostat,,romidepsin,,Belimumab
+C0033375,Arsenic trioxide,fostamatinib,hyaluronidase (ovine),regorafenib,,ponatinib,Methyltestosterone,podophyllotoxin,fulvestrant,bazedoxifene
+C0751967,sodium ferric gluconate complex,IRON DEXTRAN,almitrine,MAGNESIUM,,digoxin,ciclopirox,Digitoxin,,bretylium
+C0038220,somatostatin,octreotide,pasireotide,cysteamine,Vapreotide,Lanreotide,Valproic Acid,lamotrigine,primidone,topiramate
+C0029463,bleomycin,nelarabine,lomefloxacin,norfloxacin,levofloxacin,pixantrone,dexrazoxane,moxifloxacin,cladribine,etoposide
+C0013264,CHONDROITIN SODIUM,ataluren,hyaluronidase (ovine),danazol,,zoledronic-acid,,Gentamicins,pirfenidone,
+C1260899,homoharringtonine,clodronic-acid,,Sodium stibogluconate,doxorubicin,vindesine,fulvestrant,bazedoxifene,Eribulin,
+C1540912,Becaplermin,imatinib,sunitinib,pazopanib,nintedanib,ponatinib,regorafenib,fostamatinib,SUCROSE,dasatinib
+C0024437,Omega-3-carboxylic acids,,pirfenidone,retinol,NADH,L-Isoleucine,Adenosine monophosphate,pyrazinamide,,
+C0020651,Fentanyl,Oxycodone,loperamide,naloxone,Oxymorphone,naltrexone,Hydrocodone,tramadol,Diphenoxylate,nalbuphine
+C0079731,Arsenic trioxide,,mesalazine,aspirin,tiludronate,fludarabine,icosapent,cladribine,pomalidomide,lenalidomide
+C0030319,Tolcapone,entacapone,OPICAPONE,pirlindole,methyldopa,regadenoson,Benzphetamine,istradefylline,tizanidine,brimonidine
+C0020452,clenbuterol,,Phenylpropanolamine,GINSENG,triflusal,lenalidomide,Thalidomide,celiprolol,pomalidomide,atenolol-(+/-)
+C0398775,CONESTAT ALFA,Urokinase,TUROCTOCOG ALFA,Etanercept,6-Aminocaproic Acid,NAFAMOSTAT,Abciximab,Tenecteplase,trastuzumab,Cetuximab
+C0039103,Collagenase clostridium histolyticum,vemurafenib,trametinib,dabrafenib,cobimetinib,sorafenib,regorafenib,bosutinib,fostamatinib,Tenecteplase
+C0028768,,Acetohydroxamic Acid,trimipramine,ziprasidone,loxapine,zotepine,nortriptyline,minaprine,yohimbine,desipramine
+C0028754,NADH,fostamatinib,zinc,retinol,Rifabutin,aspirin,glycolic acid,fulvestrant,resveratrol,ospemifene
+C0027498,cholic-acid,Oxygen,,Acetohydroxamic Acid,Pegaptanib,regorafenib,fostamatinib,NADH,ponatinib,dasatinib
+C0151526,hydroflumethiazide,niflumic-acid,etacrynic-acid,bumetanide,trichlormethiazide,chlorthalidone,bendroflumethiazide,quinethazone,methyclothiazide,furosemide
+C0006287,Canakinumab,Rilonacept,glucosamine,minocycline,ibudilast,diacerein,,pyridoxine,pyridoxal,Oprelvekin
+C0014867,THROMBOMODULIN ALFA,baricitinib,,,ruxolitinib,tofacitinib,THROMBIN ALFA,,rivaroxaban,apixaban
+C0016057,halofuginone,Collagenase clostridium histolyticum,palifermin,regorafenib,fostamatinib,nintedanib,belinostat,pazopanib,panobinostat,romidepsin
+C0085159,minaprine,zotepine,pramipexole,ropinirole,trifluoperazine,Apomorphine,clomipramine,Fenfluramine,Pergolide,Nefazodone
+C0008533,TUROCTOCOG ALFA,Kappadione,Fondaparinux,Enoxaparin,Bemiparin,Heparin,Sulodexide,Danaparoid,Antithrombin III,
+C0149745,,Filgrastim,naloxone,paclitaxel,sivelestat,,zinc,,isoflurophate,Thalidomide
+C0009375,zinc,tranylcypromine,Pyridoxal Phosphate,pioglitazone,rasagiline,nandrolone,lornoxicam,naproxen,tenoxicam,meloxicam
+C2718128,naloxegol,icosapent,,deslanoside,NADH,ixabepilone,aspirin,fostamatinib,calcitriol,colchicine
+C0029927,Rituximab,Tositumomab,Ibritumomab tiuxetan,ofatumumab,ocrelizumab,obinutuzumab,Sucroferric Oxyhydroxide,spironolactone,resveratrol,aspirin
+C0017605,,trimetazidine,levothyroxine,liothyronine,Dextrothyroxine,amiodarone,cleviprex,romidepsin,fostamatinib,belinostat
+C0036690,Filgrastim,ibrutinib,sivelestat,dasatinib,ixabepilone,colchicine,vinorelbine,Tromethamine,fostamatinib,pirfenidone
+C0013404,Tranexamic Acid,zinc,6-Aminocaproic Acid,fostamatinib,Tenecteplase,Streptokinase,Anistreplase,Reteplase,fulvestrant,bazedoxifene
+C0220710,trimetazidine,Glutathione,carmustine,NADH,L-Isoleucine,Omega-3-carboxylic acids,N-Acetyl-D-glucosamine,coenzyme Q10,,Valproic Acid
+C0020757,zinc,,bosutinib,MOROCTOCOG ALFA,NADH,IRON DEXTRAN,trametinib,Choline,podophyllotoxin,fostamatinib
+C0025149,pyridoxine,pyridoxal,voglibose,fostamatinib,Arsenic trioxide,estramustine,podophyllotoxin,fulvestrant,regorafenib,vorinostat
+C0030578,Tranexamic Acid,fingolimod,Niclosamide,acitretin,6-Aminocaproic Acid,Streptokinase,N-Acetyl-D-glucosamine,Reteplase,Anistreplase,Alteplase
+C1960397,dasatinib,bosutinib,ponatinib,fostamatinib,regorafenib,imatinib,baricitinib,nilotinib,nintedanib,allylestrenol
+C0004352,lamotrigine,Ethanol,primidone,amoxapine,olanzapine,fostamatinib,Dehydroepiandrosterone,topiramate,Pentobarbital,Secobarbital
+C0242383,Pyruvic acid,zinc,,Iron,AFLIBERCEPT,Thalidomide,IRON DEXTRAN,Oxycodone,carvedilol,minocycline
+C0018021,nateglinide,glipizide,minoxidil,mitiglinide,tolazamide,acetohexamide,chlorpropamide,gliquidone,yohimbine,Dextrothyroxine
+C0020555,coenzyme Q10,NADH,insulin human,Mecasermin,Succinic acid,"insulin, neutral",Insulin Lispro,Insulin Glargine,Insulin Degludec,Insulin Detemir
+C0036337,cysteamine,Vapreotide,somatostatin,Lanreotide,safinamide,melatonin,octreotide,pasireotide,isocarboxazid,procarbazine
+C0036323,fostamatinib,,vemurafenib,bosutinib,dimethyl-fumarate,MOROCTOCOG ALFA,zoledronic-acid,,regorafenib,podophyllotoxin
+C1384600,Siltuximab,GINSENG,Polaprezinc,ibudilast,omalizumab,,carfilzomib,Choline,choline salicylate,bortezomib
+C0018790,aprindine,cinchocaine,propafenone,vernakalant,flecainide,procainamide,glucosamine,quinidine,disopyramide,apremilast
+C0038454,,Acetohydroxamic Acid,pirfenidone,ibudilast,Filgrastim,apremilast,resveratrol,zinc,Adenosine monophosphate,triflusal
+C0022593,dimethyl-fumarate,cefdinir,mesalazine,melatonin,levocarnitine,aspirin,NADH,fulvestrant,,Arsenic trioxide
+C0005138,Polaprezinc,glucosamine,Certolizumab pegol,golimumab,pirfenidone,Infliximab,hyaluronidase (ovine),pomalidomide,lenalidomide,clenbuterol
+C0023869,,fulvestrant,ospemifene,bazedoxifene,ethinyl-estradiol,raloxifene,Estrone,estramustine,Diethylstilbestrol,lasofoxifene
+C0011603,simvastatin,nicotinamide,olaparib,fluticasone propionate,Theophylline,mebendazole,niflumic-acid,zinc,fostamatinib,Tenecteplase
+C0024121,zinc,fostamatinib,Arsenic trioxide,,obeticholic acid,Omega-3-carboxylic acids,regorafenib,,fulvestrant,NADH
+C0032019,acetophenazine,Pipotiazine,thiothixene,quinagolide,itopride,,blonanserin,,triflupromazine,mesoridazine
+C0027819,fostamatinib,cholic-acid,,fulvestrant,podophyllotoxin,regorafenib,Arsenic trioxide,ospemifene,imatinib,bazedoxifene
+C0032227,,Acetohydroxamic Acid,,,Choriogonadotropin alfa,Follicle Stimulating Hormone,,gabexate,NAFAMOSTAT,Aprotinin
+C0878544,cholic-acid,Oxygen,NADH,zinc,aspirin,fostamatinib,carvedilol,isoprenaline,resveratrol,MOROCTOCOG ALFA
+C0023470,panobinostat,belinostat,vorinostat,romidepsin,Tixocortol,lovastatin,Aminophylline,minocycline,,CHONDROITIN SODIUM
+C0020179,tranylcypromine,nandrolone,phentermine,,procarbazine,selegiline,toloxatone,moclobemide,,pargyline
+C0149871,Fondaparinux,Bemiparin,Enoxaparin,Sulodexide,Danaparoid,Antithrombin III,Heparin,Kappadione,,Sodium Tetradecyl Sulfate
+C0917801,,suvorexant,Acetohydroxamic Acid,"insulin, neutral",dasatinib,acetylcysteine,glutamine-(l),mercaptopurine,Filgrastim,azathioprine
+C0023465,Filgrastim,decitabine,azacitidine,sivelestat,panobinostat,resveratrol,vorinostat,Tixocortol,phenylbutyrate,belinostat
+C0043352,nintedanib,ponatinib,palifermin,lenvatinib,fostamatinib,regorafenib,vandetanib,pazopanib,Thalidomide,zinc
+C0015672,fostamatinib,cholic-acid,Adenosine monophosphate,amrinone,Oxygen,triflusal,Theophylline,caffeine,apremilast,liothyronine
+C0014550,Valproic Acid,primidone,propofol,phenytoin,lamotrigine,brivaracetam,tetracaine,carbamazepine,topiramate,eslicarbazepine-acetate
+C0014544,NADH,fostamatinib,MAGNESIUM,,MAGNESIUM ACETATE,digoxin,,almitrine,bretylium,ciclopirox
+C0018418,goserelin-acetate,Buserelin,gestrinone,danazol,,Lutropin alfa,gonadorelin,ganirelix,triptorelin,Histrelin
+C0002871,zinc,Tranexamic Acid,6-Aminocaproic Acid,Iron,Streptokinase,fostamatinib,quinidine,Tenecteplase,Reteplase,NADH
+C0025202,fostamatinib,icosapent,dasatinib,zinc,Ecothiopate,bosutinib,Rosiglitazone,fulvestrant,aspirin,ospemifene
+C0041948,nintedanib,sorafenib,lenvatinib,regorafenib,pazopanib,sunitinib,axitinib,Polaprezinc,hyaluronidase (ovine),ponatinib
+C2973725,Collagenase clostridium histolyticum,fostamatinib,,dienestrol,MOROCTOCOG ALFA,carvedilol,ethinyl-estradiol,masoprocol,Tenecteplase,minocycline
+C0031511,tranylcypromine,nandrolone,,toloxatone,procarbazine,moclobemide,selegiline,pargyline,isocarboxazid,
+C0018801,cholic-acid,Oxygen,zinc,NADH,dexamethasone,felodipine,spironolactone,progesterone,fostamatinib,isoprenaline
+C0011616,zinc,NADH,Glutathione,fostamatinib,paclitaxel,sulindac,resveratrol,Thalidomide,levodopa,Arsenic trioxide
+C0162834,regorafenib,ponatinib,imatinib,pazopanib,fostamatinib,mitotane,sunitinib,podophyllotoxin,Succinic acid,dasatinib
+C0162820,Adalimumab,melatonin,Etanercept,Muromonab-CD3,Gemtuzumab ozogamicin,alefacept,palivizumab,Cetuximab,efalizumab,trastuzumab
+C0042514,aprindine,cinchocaine,levocarnitine,carvedilol,tetracaine,nifedipine,oxymetholone,loperamide,Valproic Acid,trifluoperazine
+C0221023,Filgrastim,sivelestat,Acetohydroxamic Acid,resveratrol,,6-Aminocaproic Acid,paracetamol,coumarin,NAFAMOSTAT,ocriplasmin
+C0020540,abiraterone,aliskiren-hemifumarate,Remikiren,tenofovir-disoproxil,finasteride,fluconazole,dihydrotestosterone,itraconazole,efinaconazole,dutasteride
+C0002736,fostamatinib,aspirin,zinc,Glutathione,fulvestrant,isoprenaline,,ospemifene,paclitaxel,NADH
+C0268543,L-Glutamic Acid,sotalol,ruxolitinib,fostamatinib,Niclosamide,,,,estradiol,mestranol
+C0162565,glutamine-(l),azathioprine,mercaptopurine,dasatinib,Ethchlorvynol,lorazepam,Alprazolam,Chlordiazepoxide,methyprylon,Clorazepate
+C0042138,Arsenic trioxide,fostamatinib,fulvestrant,,ospemifene,bazedoxifene,Methyltestosterone,norgestimate,medroxyprogesterone acetate,quinestrol
+C0151636,aprindine,levocarnitine,cinchocaine,procainamide,propafenone,flecainide,vernakalant,mexiletine,Encainide,moracizine
+C0856727,hycanthone,benzbromarone,tocofersolan,lomitapide,,Hesperetin,acitretin,Fentanyl,sulfinpyrazone,ivabradine
+C0013405,Glycerin,fostamatinib,hyaluronidase (ovine),,Tromethamine,SUCROSE,Filgrastim,glucosamine,minocycline,Gentamicins
+C0546817,abiraterone,metyrapone,tenofovir-disoproxil,aminoglutethimide,fluconazole,efinaconazole,itraconazole,dutasteride,finasteride,anastrozole
+C0014356,ezetimibe,Icatibant,,minocycline,Niclosamide,Polaprezinc,mifepristone,zinc,L-Glutamic Acid,GINSENG
+C0030590,aspirin,fostamatinib,dabrafenib,estramustine,Adenosine monophosphate,L-Glutamic Acid,dacarbazine,Diethylstilbestrol,carmustine,estradiol cypionate
+C0847614,tranilast,Lithium,dantrolene,NADH,glycolic acid,ibrutinib,Glycerin,Vitamin E,Adenosine monophosphate,nilotinib
+C0004153,,resveratrol,Kappadione,,Coagulation Factor IX,menadione,Coagulation factor VIIa Recombinant Human,Polaprezinc,zinc,
+C0019880,cyanocobalamin,Hydroxocobalamin,L-Serine,dienestrol,toremifene,clomifene,masoprocol,ademetionine,ethinyl-estradiol,L-Cysteine
+C0041341,fostamatinib,everolimus,temsirolimus,Arsenic trioxide,nicotinamide,regorafenib,aspirin,,fulvestrant,Astemizole
+C0524909,zinc,Iron,bacitracin,cisplatin,Thalidomide,IRON DEXTRAN,,ocriplasmin,sodium ferric gluconate complex,Oxycodone
+C0042847,DUPILUMAB,terbinafine,potassium chloride,,orlistat,meclofenamic-acid,,,L-Lysine,Choriogonadotropin alfa
+C0031117,NADH,fostamatinib,zinc,podophyllotoxin,,Arsenic trioxide,coenzyme Q10,MOROCTOCOG ALFA,fulvestrant,Glutathione
+C0085129,diclofenac,Polaprezinc,sulindac,mesalazine,clenbuterol,minoxidil,lornoxicam,icosapent,alclofenac,
+C0040261,amsacrine,Oxycodone,Thalidomide,Anakinra,vincristine,fostamatinib,podophyllotoxin,glucosamine,Pseudoephedrine,Arsenic trioxide
+C0007102,aspirin,podophyllotoxin,,fulvestrant,ospemifene,fostamatinib,bazedoxifene,copanlisib,idelalisib,Glycerin
+C0010481,Corticotropin,loperamide,corticorelin ovine triflutate,"MSH, 4-Nle-7-Phe-alpha-",dextromethorphan,AFLIBERCEPT,fluoxetine,ursodiol,pirfenidone,mecamylamine
+C0268596,NADH,coenzyme Q10,levofloxacin,lomefloxacin,mitoxantrone,norfloxacin,ofloxacin,pixantrone,paracetamol,valrubicin
+C0020542,fostamatinib,carvedilol,minocycline,masoprocol,,zinc,dienestrol,resveratrol,L-Arginine,mesalazine
+C0038325,Arsenic trioxide,,fulvestrant,fostamatinib,bazedoxifene,ospemifene,,triflusal,aspirin,
+C0876973,dextromethorphan,Tenecteplase,regorafenib,Necitumumab,dasatinib,fostamatinib,aspirin,sorafenib,gefitinib,zinc
+C0162836,NAFAMOSTAT,Dextropropoxyphene,Heroin,naloxone,montelukast,pranlukast,cyclandelate,fostamatinib,Aprotinin,fulvestrant
+C1263846,cholic-acid,Oxygen,ademetionine,,Acetohydroxamic Acid,NADH,fostamatinib,Filgrastim,estradiol cypionate,Valproic Acid
+C2242472,Rilonacept,L-Serine,isoprenaline,quinidine,imatinib,IRON DEXTRAN,regorafenib,Pyridoxal Phosphate,sodium ferric gluconate complex,zinc
+C0268390,,MOROCTOCOG ALFA,N-Acetyl-D-glucosamine,podophyllotoxin,vincristine,Rifabutin,Mecasermin,Alteplase,Tenecteplase,
+C0032768,phenacemide,lacosamide,mephenytoin,oxcarbazepine,ethotoin,rufinamide,eslicarbazepine-acetate,tetracaine,phenytoin,carbamazepine
+C1408258,amiloride,triamterene,Tenecteplase,doxycycline,Arsenic trioxide,zinc,,L-Aspartic Acid,,SUCROSE
+C0026709,boceprevir,rimexolone,,amiodarone,fludroxycortide,triamcinolone,isradipine,ciclesonide,fluocinonide,bepridil
+C0006142,Arsenic trioxide,,trientine,copanlisib,idelalisib,hyaluronidase (ovine),podophyllotoxin,,fostamatinib,palifermin
+C0151740,ponatinib,nintedanib,palifermin,lenvatinib,regorafenib,pazopanib,Thalidomide,fostamatinib,Heparin,Adenosine monophosphate
+C0270736,clomethiazole,,zolpidem,etizolam,carisoprodol,zaleplon,Butethal,barbital,APROBARBITAL,Amobarbital
+C0023467,NONACOG BETA PEGOL,lasofoxifene,fostamatinib,TUROCTOCOG ALFA,ANTITHROMBIN ALFA,betrixaban,lisinopril,moexipril,rivaroxaban,apixaban
+C0023473,ponatinib,dasatinib,imatinib,regorafenib,bosutinib,nilotinib,,lenvatinib,aspirin,
+C0023472,,fulvestrant,bazedoxifene,ospemifene,panobinostat,,Sodium stibogluconate,homoharringtonine,vorinostat,SUCROSE
+C0020621,hydroflumethiazide,trichlormethiazide,bendroflumethiazide,quinethazone,methyclothiazide,chlorthalidone,niflumic-acid,fluoxymesterone,hydrocortisone,diazoxide
+C0020635,abiraterone,aminoglutethimide,anastrozole,exemestane,testolactone,letrozole,nandrolone,finasteride,fluconazole,efinaconazole
+C0006625,cholic-acid,Oxygen,halofuginone,tiludronate,NADH,ixabepilone,GINSENG,colchicine,resveratrol,fostamatinib
+C0032580,zinc,THROMBIN ALFA,,resveratrol,Necitumumab,aspirin,gefitinib,,erlotinib,THROMBOMODULIN ALFA
+C0014553,doxapram,bepridil,amiodarone,felodipine,isradipine,pregabalin,gabapentin-enacarbil,spironolactone,gabapentin,omeprazole
+C0032027,acyclovir,daratumumab,fostamatinib,Denosumab,Siltuximab,roflumilast,Canakinumab,Glycine,glucosamine,nicotinamide
+C0018802,cholic-acid,Oxygen,NADH,zinc,pirfenidone,Iron,fostamatinib,,coenzyme Q10,Succinic acid
+C0020437,,Acetohydroxamic Acid,regorafenib,Polaprezinc,lenalidomide,ponatinib,glucosamine,fostamatinib,Arsenic trioxide,imatinib
+C0008350,glyburide,probucol,cyclosporine,eflornithine,NADH,zinc,glycolic acid,IRON DEXTRAN,sodium ferric gluconate complex,Insulin Detemir
+C0011615,glucosamine,Polaprezinc,regorafenib,sorafenib,ibudilast,minocycline,CHONDROITIN SODIUM,carvedilol,racecadotril,sacubitril
+C0878787,NADH,L-Phenylalanine,fostamatinib,quinidine,coenzyme Q10,aspirin,zinc,fulvestrant,Adenosine monophosphate,Pyridoxal Phosphate
+C0037188,fulvestrant,,ospemifene,bazedoxifene,quinestrol,tibolone,Conjugated Estrogens,mestranol,podophyllotoxin,dactinomycin
+C0155862,,Arsenic trioxide,sulindac,isoprenaline,fostamatinib,regorafenib,bosutinib,fulvestrant,aspirin,bazedoxifene
+C0268583,cyanocobalamin,Hydroxocobalamin,minocycline,NADH,Succinic acid,levocarnitine,Estrone,ethinyl-estradiol,levonorgestrel,Glutathione
+C0020557,isoflurophate,,bambuterol,dipivefrine,pralidoxime,edrophonium,tacrine,rivastigmine,demecarium,
+C0022354,hycanthone,benzbromarone,tocofersolan,lomitapide,,Hesperetin,acitretin,sulfinpyrazone,Fentanyl,ivabradine
+C0007117,"MSH, 4-Nle-7-Phe-alpha-",Corticotropin,Cosyntropin,fostamatinib,,ospemifene,fulvestrant,Arsenic trioxide,aspirin,Polaprezinc
+C0013604,niflumic-acid,zinc,fostamatinib,Tenecteplase,aspirin,lenalidomide,Polaprezinc,,pomalidomide,MOROCTOCOG ALFA
+C0011991,glyburide,voglibose,dexamethasone,miglitol,felodipine,etacrynic-acid,bumetanide,spironolactone,progesterone,hydroflumethiazide
+C2239176,zinc,fostamatinib,aspirin,Arsenic trioxide,NADH,,ospemifene,,fulvestrant,bazedoxifene
+C0751122,phenytoin,mephenytoin,phenacemide,lacosamide,ethotoin,eslicarbazepine-acetate,tetracaine,oxcarbazepine,rufinamide,carbamazepine
+C0036651,dabrafenib,trametinib,sorafenib,regorafenib,bosutinib,vemurafenib,cobimetinib,fostamatinib,,hydroquinone
+C0034734,Glutathione,Peginterferon alfa-2a,Peginterferon alfa-2b,Interferon Alfa-2a,,"INTERFERON BETA-1A,RECOMBINANT",Interferon beta-1b,,Siltuximab,Sucroferric Oxyhydroxide
+C0001957,rizatriptan,CANGRELOR,clopidogrel,ticagrelor,ticlopidine,prasugrel,zolmitriptan,naratriptan,almotriptan,dihydroergotamine
+C0162566,Nafcillin,tenofovir-disoproxil,simeprevir,pyridoxine,pyridoxal,Isoniazid,telithromycin,methoxsalen,Ritonavir,diacerein
+C0276226,fostamatinib,Arsenic trioxide,mesalazine,paclitaxel,,fulvestrant,ruxolitinib,golimumab,tofacitinib,aspirin
+C1261473,ponatinib,regorafenib,imatinib,pazopanib,sunitinib,nintedanib,Succinic acid,fostamatinib,lenvatinib,aspirin
+C0746102,ivacaftor,lumacaftor,tezacaftor,capsaicin,CROFELEMER,bumetanide,Dexibuprofen,ibuprofen,nimodipine,fostamatinib
+C1565489,niflumic-acid,,Acetohydroxamic Acid,pirfenidone,zinc,bleomycin,Filgrastim,fostamatinib,voglibose,L-Cystine
+C0042842,nicotinamide,olaparib,retinol,tretinoin,Theophylline,L-Histidine,zinc,podophyllotoxin,NAFAMOSTAT,
+C0035412,minocycline,carvedilol,CHONDROITIN SODIUM,Mecasermin,Tromethamine,fostamatinib,Bevacizumab,propacetamol,podophyllotoxin,AFLIBERCEPT
+C0024523,folic-acid,indomethacin,sulfasalazine,trientine,L-Lysine,acenocoumarol,phenprocoumon,phenindione,droxicam,
+C2607914,tranilast,doxylamine,Butriptyline,molindone,meclizine,thiothixene,Astemizole,pheniramine,rupatadine,ebastine
+C0010692,dimethyl-fumarate,clenbuterol,Polaprezinc,loperamide,acetylcysteine,bortezomib,Arsenic trioxide,aspirin,Tenecteplase,Methyltestosterone
+C0015503,anisindione,phytonadione,,menadione,Coagulation factor VIIa Recombinant Human,,Coagulation Factor IX,Kappadione,,NONACOG BETA PEGOL
+C0936215,zinc,cisplatin,Iron,Tenecteplase,Ancrod,MOROCTOCOG ALFA,fostamatinib,amsacrine,mifepristone,
+C0026650,minaprine,NADH,loperamide,Valproic Acid,fostamatinib,dopamine,podophyllotoxin,fluphenazine,vincristine,naloxone
+C1384606,secukinumab,fostamatinib,regorafenib,MOROCTOCOG ALFA,acetylcysteine,mesalazine,sulindac,Anakinra,,ocriplasmin
+C0030807,zinc,Oxycodone,Thalidomide,Sucroferric Oxyhydroxide,Iron,,lidocaine,sodium ferric gluconate complex,disopyramide,IRON DEXTRAN
+C0018621,Glycine,vigabatrin,nicotinamide,cefdinir,,tiagabine,coumarin,Ecothiopate,felbinac,botulinum toxin type B
+C0022595,,bretylium,Digitoxin,,MAGNESIUM ACETATE,almitrine,MAGNESIUM,digoxin,ciclopirox,mebendazole
+C0020433,golimumab,Certolizumab pegol,Infliximab,pomalidomide,pirfenidone,amrinone,sulfinpyrazone,glucosamine,lenalidomide,chloroquine
+C0023890,NADH,zinc,Collagenase clostridium histolyticum,Tranexamic Acid,lasofoxifene,glyburide,fluoxymesterone,cefotaxime,Streptokinase,
+C0024899,nilotinib,imatinib,lenvatinib,sunitinib,pazopanib,sorafenib,ponatinib,regorafenib,dasatinib,
+C0031099,Adalimumab,Cetuximab,trastuzumab,Abciximab,Etanercept,Muromonab-CD3,Gemtuzumab ozogamicin,Ibritumomab tiuxetan,Rituximab,Bevacizumab
+C0002453,abiraterone,,Lutropin alfa,aminoglutethimide,anastrozole,exemestane,testolactone,letrozole,nandrolone,Estrone
+C0013238,doxycycline,hyaluronidase (ovine),L-Arginine,,fulvestrant,ospemifene,,diazoxide,bazedoxifene,NADH
+C0010043,lenvatinib,nintedanib,palifermin,ponatinib,regorafenib,Thalidomide,pazopanib,Heparin,imatinib,tiludronate
+C0033117,sodium ferric gluconate complex,IRON DEXTRAN,Sucroferric Oxyhydroxide,Oxygen,Iron,Thalidomide,Oxycodone,disopyramide,lidocaine,zinc
+C0020619,pentoxifylline,Adenosine monophosphate,caffeine,dipyridamole,amrinone,trapidil,ketotifen,Nitroprusside,Nitroglycerin,Methylene Blue
+C0079744,idelalisib,copanlisib,fostamatinib,cholic-acid,celecoxib,caffeine,NADH,isoprenaline,Arsenic trioxide,paclitaxel
+C0020625,dexamethasone,spironolactone,felodipine,nimodipine,progesterone,fluticasone propionate,Fludrocortisone,,testosterone,drospirenone
+C0035228,Polaprezinc,fingolimod,naloxone,glucosamine,trazodone,Tenecteplase,pirfenidone,olopatadine,chlorprothixene,
+C0035229,cholic-acid,Oxygen,halofuginone,fostamatinib,NADH,Urokinase,palifermin,,tiludronate,MOROCTOCOG ALFA
+C0948480,cyanocobalamin,pirfenidone,Certolizumab pegol,golimumab,Infliximab,pomalidomide,deserpidine,quinapril,perindopril,Spirapril
+C1800706,estramustine,paclitaxel,,docetaxel,zinc,coumarin,Pseudoephedrine,vincristine,podophyllotoxin,vemurafenib
+C0014556,captopril,ramipril,enalaprilat,,GAMMA-AMINOBUTYRIC ACID,zinc,baclofen,regorafenib,vandetanib,ponatinib
+C0151744,fostamatinib,zinc,NADH,dasatinib,Arsenic trioxide,aspirin,Filgrastim,,Tenecteplase,
+C0028734,disulfiram,dopamine,Vitamin C,bacitracin,metirosine,ocriplasmin,Becaplermin,metronidazole,tolperisone,telithromycin
+C0401151,orlistat,fingolimod,aldesleukin,Denileukin diftitox,dasatinib,Arsenic trioxide,,aspirin,Dalbavancin,fostamatinib
+C0032787,tacrine,pralidoxime,demecarium,edrophonium,,rivastigmine,Ecothiopate,bambuterol,isoflurophate,oxymetholone
+C0037199,dextromethorphan,dasatinib,fostamatinib,cladribine,zinc,isoprenaline,bosutinib,ponatinib,ivacaftor,regorafenib
+C0079584,Glycine,L-Histidine,Ecothiopate,urea,resveratrol,Choline,THROMBOMODULIN ALFA,lomefloxacin,ephedrine,norepinephrine
+C0002888,Hydroxocobalamin,cyanocobalamin,orlistat,Dalbavancin,trimethoprim,pralatrexate,pemetrexed,Gentamicins,NADH,pioglitazone
+C0001403,cyanocobalamin,NADH,icosapent,Glutathione,Rosiglitazone,panobinostat,retinol,belinostat,vinorelbine,vorinostat
+C0343065,amsacrine,Oxycodone,Thalidomide,Anakinra,podophyllotoxin,Ustekinumab,Pseudoephedrine,,MOROCTOCOG ALFA,resveratrol
+C0020546,glutamine-(l),mercaptopurine,azathioprine,Ustekinumab,dasatinib,guselkumab,aspirin,Pseudoephedrine,Necitumumab,gefitinib
+C0021670,Arsenic trioxide,fostamatinib,regorafenib,hyaluronidase (ovine),ponatinib,,fulvestrant,nintedanib,Methyltestosterone,vemurafenib
+C0346647,,Acetohydroxamic Acid,aspirin,podophyllotoxin,fostamatinib,fulvestrant,,ospemifene,bazedoxifene,Arsenic trioxide
+C0040517,domperidone,blonanserin,,Captodiame,,,prochlorperazine,levodopa,droperidol,cariprazine
+C0010308,,Dextrothyroxine,levothyroxine,liothyronine,amlexanox,Adenosine monophosphate,amiodarone,,apremilast,Theophylline
+C0268579,Biotin,L-Valine,profenamine,,,memantine,magnesium carbonate,orphenadrine,felbamate,gabexate
+C0342384,danazol,gestrinone,goserelin-acetate,Buserelin,gonadorelin,Histrelin,Abarelix,degarelix,ganirelix,triptorelin
+C1168401,aspirin,celecoxib,resveratrol,Arsenic trioxide,sulfinpyrazone,romidepsin,icosapent,,fostamatinib,fulvestrant
+C0019112,cefazolin,Phenol,phensuximide,trimethadione,cefotaxime,ethosuximide,paramethadione,mestinon,Potassium perchlorate,methsuximide
+C0149725,halofuginone,cladribine,N-Acetyl-D-glucosamine,isradipine,tiludronate,felodipine,amiodarone,Urokinase,bepridil,edrophonium
+C1956346,TETRACHLORODECAOXIDE,,fostamatinib,zinc,,fulvestrant,ospemifene,bazedoxifene,Adenosine monophosphate,oxymetholone
+C0376545,cytarabine,,aspirin,clofarabine,fludarabine,cladribine,nelarabine,MOROCTOCOG ALFA,,podophyllotoxin
+C0042880,Glycine,fluconazole,orlistat,itraconazole,efinaconazole,fostamatinib,acyclovir,hydroxyurea,terbinafine,acetylcysteine
+C2267227,CHONDROITIN SODIUM,,montelukast,Aprotinin,,NAFAMOSTAT,cyclandelate,thiamine,zafirlukast,Dextropropoxyphene
+C0870082,NADH,regorafenib,fostamatinib,sorafenib,Arsenic trioxide,Mecasermin,dasatinib,Insulin Glargine,,nintedanib
+C0013415,phentermine,phenelzine,Rilonacept,minaprine,Methamphetamine,pirlindole,tranylcypromine,procarbazine,selegiline,pargyline
+C0023267,fulvestrant,ospemifene,Methyltestosterone,bazedoxifene,,quinestrol,norgestimate,Conjugated Estrogens,mestranol,tibolone
+C0030569,Fentanyl,tocofersolan,hycanthone,cefazolin,celecoxib,,MOROCTOCOG ALFA,zinc,coumarin,Teriparatide
+C0028326,regorafenib,sorafenib,bosutinib,dabrafenib,trametinib,vemurafenib,dasatinib,fostamatinib,cobimetinib,vandetanib
+C0034069,pranlukast,nedocromil,,montelukast,Acetohydroxamic Acid,,zafirlukast,Filgrastim,glucosamine,minocycline
+C0010691,L-Cystine,acarbose,scopolamine,miglitol,voglibose,ouabain,L-Phenylalanine,clodronic-acid,deslanoside,velaglucerase alfa
+C2316810,vincristine,ocriplasmin,podophyllotoxin,,colchicine,fostamatinib,ixabepilone,vinorelbine,vindesine,ethotoin
+C1527336,Etanercept,Natalizumab,sarilumab,trastuzumab,Adalimumab,Abciximab,Cetuximab,Bevacizumab,Muromonab-CD3,alefacept
+C0002726,isoflurophate,minaprine,ephedrine,dipivefrine,mestinon,edrophonium,physostigmine,demecarium,pralidoxime,rivastigmine
+C0026848,cholic-acid,halofuginone,Oxygen,fluphenazine,chlorpromazine,yohimbine,dopamine,NADH,perphenazine,amitriptyline
+C0085649,,N-Acetyl-D-glucosamine,L-Isoleucine,carfilzomib,TUROCTOCOG ALFA,clofarabine,bortezomib,podophyllotoxin,cytarabine,vincristine
+C0007138,promethazine,asenapine,doxepin,mianserin,ranitidine,epinastine,tolazoline,methantheline,cimetidine,nizatidine
+C0205768,fostamatinib,everolimus,temsirolimus,nicotinamide,Arsenic trioxide,dabrafenib,regorafenib,aspirin,,Astemizole
+C0020550,carmustine,isoprenaline,Glutathione,liothyronine,levothyroxine,amiodarone,,Arsenic trioxide,Dextrothyroxine,NADH
+C0020544,oxymetholone,carvedilol,candesartan-cilextil,Tasosartan,fostamatinib,Azilsartan medoxomil,zinc,Nesiritide,ivacaftor,melatonin
+C0011606,regorafenib,dasatinib,sorafenib,ponatinib,imatinib,pazopanib,nilotinib,lenvatinib,zinc,sunitinib
+C0014742,,zinc,Muromonab-CD3,flumethasone,dextromethorphan,prednicarbate,loperamide,desonide,sulfasalazine,clobetasol-propionate
+C0000737,cholic-acid,,Oxygen,Acetohydroxamic Acid,Pegaptanib,fostamatinib,NADH,Filgrastim,dasatinib,zinc
+C0022596,zinc,mebendazole,podophyllotoxin,ixabepilone,fostamatinib,colchicine,vincristine,vinorelbine,regorafenib,Succinic acid
+C0042510,phenytoin,vernakalant,procainamide,flecainide,propafenone,disopyramide,brivaracetam,cinchocaine,dyclonine,quinidine
+C0424489,,gabexate,,zinc,L-Aspartic Acid,mebendazole,vinorelbine,colchicine,ixabepilone,acetylcysteine
+C0342543,seratrodast,olopatadine,,bortezomib,carfilzomib,L-Isoleucine,,TUROCTOCOG ALFA,cytarabine,halofuginone
+C0002875,sodium ferric gluconate complex,IRON DEXTRAN,Sucroferric Oxyhydroxide,Oxygen,Iron,Oxycodone,Thalidomide,disopyramide,lidocaine,zinc
+C0038525,minocycline,ambrisentan,,bosentan,Sitaxentan,macitentan,,Aminophylline,triflusal,istradefylline
+C0036508,Heparin,Bemiparin,Fondaparinux,Enoxaparin,Sulodexide,Danaparoid,Antithrombin III,Tranexamic Acid,,Ximelagatran
+C0010068,6-Aminocaproic Acid,sivelestat,cyanocobalamin,PORFIMER SODIUM,warfarin,acenocoumarol,phenindione,phenprocoumon,dicoumarol,menadione
+C0010054,PORFIMER SODIUM,fulvestrant,bazedoxifene,,ospemifene,quinestrol,Methyltestosterone,Conjugated Estrogens,tibolone,mestranol
+C0497327,cholic-acid,Oxygen,zinc,NADH,coenzyme Q10,gabexate,acetylcysteine,,colchicine,Iron
+C0041582,Pseudoephedrine,,ibandronate,risedronate,,pamidronate,fostamatinib,Methyltestosterone,fluorometholone,betamethasone
+C0162429,cyanocobalamin,L-Cysteine,diosmin,Hydroxocobalamin,ademetionine,estramustine,L-Serine,tipiracil,flutamide,GINSENG
+C0023449,ponatinib,sorafenib,nintedanib,sunitinib,bosutinib,dasatinib,fostamatinib,Arsenic trioxide,podophyllotoxin,isoprenaline
+C0014583,carfilzomib,bortezomib,N-Acetyl-D-glucosamine,tocofersolan,hycanthone,,L-Isoleucine,cytarabine,,L-Valine
+C0020626,Teriparatide,PARATHYROID HORMONE,Tolcapone,OPICAPONE,entacapone,Neomycin,,velcalcetide,cinacalcet,Spermine
+C0559106,aspirin,fostamatinib,dabrafenib,Adenosine monophosphate,estramustine,L-Glutamic Acid,dacarbazine,Diethylstilbestrol,carmustine,estradiol cypionate
+C0042909,cupric chloride,Kappadione,Sodium Tetradecyl Sulfate,,insulin human,menadione,"insulin, neutral",,fostamatinib,Dexibuprofen
+C0023448,fludarabine,cladribine,gemcitabine,pemetrexed,ospemifene,,fulvestrant,panobinostat,belinostat,vorinostat
+C0917805,Romiplostim,eltrombopag,pazopanib,Tenecteplase,,baricitinib,MOROCTOCOG ALFA,,tofacitinib,ruxolitinib
+C0242973,Theobromine,,Defibrotide,istradefylline,regadenoson,clenbuterol,,miglitol,adenosine,doxofylline
+C0005699,pentostatin,floxuridine,capecitabine,doxifluridine,carmofur,leucovorin,,Trifluridine,ponatinib,bosutinib
+C0029401,axitinib,Arsenic trioxide,fostamatinib,fulvestrant,bosutinib,,ponatinib,regorafenib,bazedoxifene,imatinib
+C0023892,Thalidomide,hyaluronidase (ovine),aspirin,fostamatinib,ruxolitinib,tofacitinib,lenalidomide,Tromethamine,tezacaftor,ivacaftor
+C0027404,suvorexant,,"insulin, neutral",Choline,choline salicylate,tetracycline,,Calcium Chloride,Adenosine monophosphate,insulin human
+C0002874,glucosamine,apremilast,olsalazine,Ecothiopate,,doxorubicin,,Sodium stibogluconate,levofloxacin,podophyllotoxin
+C0022568,safinamide,isocarboxazid,procarbazine,,tranylcypromine,pargyline,,rasagiline,moclobemide,linezolid
+C0014743,carfilzomib,bortezomib,omalizumab,Choline,choline salicylate,N-Acetyl-D-glucosamine,Lithium,L-Isoleucine,perampanel,Phenformin
+C1704436,fulvestrant,ospemifene,bazedoxifene,,fostamatinib,regorafenib,hyaluronidase (ovine),Methyltestosterone,bosutinib,panobinostat
+C0030193,mirtazapine,mianserin,fluphenazine,chlorpromazine,perphenazine,amitriptyline,asenapine,clozapine,zotepine,risperidone
+C0221032,terbinafine,methocarbamol,ethinamate,Ethanol,L-Lysine,itopride,,bromopride,bromperidol,L-Arginine
+C0020545,,Acetohydroxamic Acid,dabrafenib,Filgrastim,dactinomycin,teniposide,daunorubicin,dexrazoxane,etoposide,doxorubicin
+C0037763,Glucagon recombinant,oxytocin,Valproic Acid,NADH,Pyridoxal Phosphate,Succinic acid,L-Cysteine,disulfiram,retinol,Glutathione
+C0242350,gestrinone,danazol,goserelin-acetate,Buserelin,gonadorelin,ganirelix,triptorelin,Histrelin,Abarelix,Nafarelin
+C0751865,ospemifene,fulvestrant,bazedoxifene,,Sodium stibogluconate,homoharringtonine,,quinestrol,fostamatinib,allylestrenol
+C0242422,Biotin,zinc,,acetylcysteine,tretinoin,resveratrol,fostamatinib,memantine,profenamine,retinol
+C0018794,Benzocaine,dyclonine,cinchocaine,ranolazine,orphenadrine,phenacemide,oxcarbazepine,lacosamide,mephenytoin,eslicarbazepine-acetate
+C0026691,ibrutinib,sarilumab,Lithium,palivizumab,Tositumomab,Alemtuzumab,alefacept,efalizumab,Bevacizumab,Adalimumab
+C0156404,vinblastine,podophyllotoxin,vincristine,pentamidine,fulvestrant,fostamatinib,ospemifene,tibolone,,quinestrol
+C1961099,pimecrolimus,everolimus,temsirolimus,sirolimus,fulvestrant,,ospemifene,bazedoxifene,celecoxib,Methyltestosterone
+C0001206,icosapent,Arsenic trioxide,Mecasermin,Rosiglitazone,Insulin Lispro,,Insulin Glargine,Pseudoephedrine,Insulin Glulisine,Insulin Detemir
+C0235480,propafenone,flecainide,vernakalant,quinidine,phenytoin,procainamide,aprindine,cinchocaine,benzonatate,Encainide
+C0238198,imatinib,sunitinib,pazopanib,coenzyme Q10,nilotinib,ponatinib,ataluren,lenvatinib,Becaplermin,regorafenib
+C0013428,glutamine-(l),azathioprine,mercaptopurine,dasatinib,metharbital,butalbital,stiripentol,butabarbital,Ethchlorvynol,Talbutal
+C0041408,,triflusal,isoprenaline,,L-Arginine,,L-Citrulline,Glutathione,dexamethasone,cholic-acid
