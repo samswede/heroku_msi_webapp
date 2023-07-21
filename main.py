@@ -31,6 +31,18 @@ TO DO:
             ^That is what i did. There seems to be a pydantic type error. 
             I need to understand the types of my response and describe that better.
 
+    - It runs now. The main problem is that I am at 125% memory quota. 
+      That is around 625MB, while my limit is 500MB.
+
+      I'm not sure what is taking up all of this memory. 
+            It could even be all of the dependencies in the virtual environment
+            There is already 100MB in use before loading GraphManager.
+            There appears to be little accumulation of memory.
+
+            The problem is immediate, and steady above the limit.
+            This seems to imply that it happens before GraphManager...
+            How do I find out how much memory I have used before importing GraphManager?
+            Could I potentially put a timout for a couple of seconds to see memory usage?
 """
 
 
@@ -198,10 +210,10 @@ async def get_graph_data(request: GraphRequest):
     k1 = request.k1
     k2 = request.k2
 
-    print(f'disease_label: {disease_label}')
-    print(f'drug_label: {drug_label}')
-    print(f'k1: {k1}')
-    print(f'k2: {k2}')
+    #print(f'disease_label: {disease_label}')
+    #print(f'drug_label: {drug_label}')
+    #print(f'k1: {k1}')
+    #print(f'k2: {k2}')
 
     # Derpy fix changing drug_label (which is actually a name right now) back into a label.
     drug_label = graph_manager.mapping_all_names_to_labels[drug_label]

@@ -11,10 +11,9 @@ import gzip
 
 
 class GraphManager:
-    #@profile
+    @profile
     def __init__(self, data_path):
 
-        #self.load_MSI_graph()
         self.load_dicts(data_path)
         self.load_mapping_all_labels_to_names(data_path)
         self.load_node_types(data_path)
@@ -30,11 +29,7 @@ class GraphManager:
 
         self.mapping_all_names_to_labels = self.invert_dict(self.mapping_all_labels_to_names)
         
-    #@profile
-    def load_MSI_graph(self):
-        self.MSI = nx.read_graphml("MSI_graph.graphml")
-        pass
-    
+
     #@profile
     def load_mapping_all_labels_to_names(self, data_path):
         with gzip.open(f'{data_path}mapping_all_labels_to_names.pkl.gz', 'rb') as f:
@@ -66,6 +61,7 @@ class GraphManager:
     def load_drug_candidates(self, data_path):
         self.all_drug_candidates = pd.read_csv(f'{data_path}drug_candidates.csv')
 
+    @profile
     def get_drugs_for_disease_precomputed(self, chosen_indication_label):
         # Filter the DataFrame for the rows where the first column (indication label) matches the chosen indication label
         matching_rows = self.all_drug_candidates[self.all_drug_candidates.iloc[:, 0] == chosen_indication_label]
@@ -117,30 +113,6 @@ class GraphManager:
     def get_top_k_indication_node_labels(self, indication_index, k_node_labels):
         top_k_indication_node_labels= self.top_100_node_labels_for_each_indication[indication_index][-k_node_labels:] # (k_node_labels -1)
         return top_k_indication_node_labels
-
-    #@profile
-    # def create_subgraph(self, top_k_node_labels):
-    #     """
-    #     Create a subgraph from the top k nodes and draw it.
-        
-    #     Input: 
-    #     - top_k_node_labels (list of str): The labels of the nodes to include in the subgraph.
-
-    #     Output:
-    #     - nx.Graph: The subgraph containing only the top k nodes.
-    #     - dict: A dictionary mapping node labels to colors.
-    #     """
-    #     # Check if input is valid
-    #     assert isinstance(top_k_node_labels, list), "top_k_node_labels must be a list"
-    #     #assert all(isinstance(node, (str, int)) for node in top_k_node_labels), "All elements in top_k_node_labels must be strings or integers"
-    
-    #     # Create a subgraph from the top k nodes
-    #     subgraph = self.MSI.subgraph(top_k_node_labels)
-        
-    #     # Create a dictionary for node colors
-    #     node_colors, node_shapes = self.get_node_colors_and_shapes(subgraph)
-
-    #     return subgraph, node_colors, node_shapes
     
     def get_node_colors_and_shapes(self, subgraph):
 
@@ -164,6 +136,7 @@ class GraphManager:
 
         return node_colors, node_shapes
     
+    @profile
     def generate_subgraph_with_database(self, chosen_indication_label, chosen_drug_label, num_drug_nodes, num_indication_nodes, map_drug_diffusion_labels_to_indices, map_indication_diffusion_labels_to_indices, session):
 
         drug_index = map_drug_diffusion_labels_to_indices[chosen_drug_label]
@@ -177,7 +150,8 @@ class GraphManager:
 
         # Define a Cypher query to get the subgraph data
         top_k_nodes_MOA_subgraph = self.convert_numbers_to_strings(top_k_nodes_MOA_subgraph)
-        print(f'top_k_nodes_MOA_subgraph: {top_k_nodes_MOA_subgraph}')
+
+        #print(f'top_k_nodes_MOA_subgraph: {top_k_nodes_MOA_subgraph}')
 
         cypher_query = f"""
         MATCH (n)
@@ -187,17 +161,17 @@ class GraphManager:
         RETURN n, r, m
         """
 
-        print(f'cypher_query: {cypher_query}')
+        #print(f'cypher_query: {cypher_query}')
 
         # Execute the Cypher query
         result = session.run(cypher_query)
 
-        print(f'result: {result}')
+        #print(f'result: {result}')
         # Convert the result to a networkx graph
         MOA_subgraph = self.convert_neo4j_result_to_networkx_graph(result)
 
-        print(f'MOA_subgraph: {MOA_subgraph}')
-        print(f'MOA_subgraph.nodes(): {MOA_subgraph.nodes()}')
+        #print(f'MOA_subgraph: {MOA_subgraph}')
+        #print(f'MOA_subgraph.nodes(): {MOA_subgraph.nodes()}')
 
         # Get node colors and shapes
         MOA_subgraph_node_colors, MOA_subgraph_node_shapes = self.get_node_colors_and_shapes(MOA_subgraph)
@@ -241,6 +215,7 @@ class GraphManager:
 
         return graph
 
+    @profile
     def convert_networkx_to_vis_graph_data(self, graph, node_colors, node_shapes):
         # Create a list of nodes and edges
         nodes = [{"id": self.mapping_label_to_index[node_label], 
