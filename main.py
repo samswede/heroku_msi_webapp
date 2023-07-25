@@ -47,9 +47,9 @@ TO DO:
 
 
 # Create Driver and Connect to database
-uri= 'bolt://3.87.61.251:7687'
+uri= 'bolt://54.197.80.32:7687'
 username= 'neo4j'
-password= 'bubble-car-percent'
+password= 'kilometers-poke-centers'
 
 # Connect to neo4j sandbox
 driver = connect_to_neo4j_sandbox(uri, username, password)
